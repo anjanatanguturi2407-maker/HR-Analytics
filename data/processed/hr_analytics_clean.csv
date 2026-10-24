@@ -1,0 +1,1501 @@
+EmployeeID,Age,Gender,Department,JobRole,MonthlyIncome,YearsAtCompany,JobSatisfaction,Attrition,Overtime,PerformanceRating,EducationLevel
+EMP00739,42,Female,Customer Support,Support Agent,34364,22,Medium,No,No,Needs Improvement,PhD
+EMP00360,23,Female,IT,IT Support,40000,5,Medium,No,No,Exceeds Expectations,High School
+EMP00807,52,Female,Operations,Operations Analyst,28302,27,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00596,39,Male,Customer Support,Support Agent,11010,10,High,No,Yes,Needs Improvement,Master's
+EMP00228,29,Male,Research & Development,Research Scientist,15678,7,Medium,No,No,Exceeds Expectations,PhD
+EMP01461,26,Female,Research & Development,Research Director,999999,6,Medium,No,No,Needs Improvement,PhD
+EMP00274,47,Male,Customer Support,Support Manager,29879,14,Very High,No,No,Exceeds Expectations,High School
+EMP00026,40,Female,Finance,Accountant,36590,17,Very High,No,Unknown,Needs Improvement,High School
+EMP00306,40,Male,Research & Development,Research Scientist,15109,19,Low,Yes,No,Exceeds Expectations,PhD
+EMP00749,23,Female,Sales,Sales Executive,26484,5,Low,No,No,Meets Expectations,Master's
+EMP00903,35,Non-Binary,Research & Development,Research Scientist,28169,5,Low,Yes,Yes,Exceeds Expectations,PhD
+EMP00666,19,Male,Research & Development,Research Scientist,12678,0,Medium,No,Yes,Meets Expectations,High School
+EMP00825,36,Non-Binary,Operations,Operations Manager,20489,10,High,No,No,Needs Improvement,Bachelor's
+EMP01045,31,Female,IT,IT Support,40000,7,Very High,No,No,Exceeds Expectations,High School
+EMP00376,18,Female,Human Resources,Recruiter,25359,1,Very High,No,No,Meets Expectations,High School
+EMP00510,50,Non-Binary,Customer Support,Support Manager,35000,30,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00151,43,Non-Binary,Customer Support,Team Lead,19547,7,Low,No,Yes,Needs Improvement,High School
+EMP01308,34,Non-Binary,Finance,Finance Manager,38361,17,Very High,No,No,Exceeds Expectations,High School
+EMP00543,37,Female,IT,IT Support,28257,17,High,No,Yes,Unknown,PhD
+EMP01382,43,Female,Operations,Operations Manager,27738,7,Unknown,No,No,Exceeds Expectations,Master's
+EMP01315,28,Non-Binary,Finance,Finance Manager,16877,4,Low,No,Yes,Exceeds Expectations,High School
+EMP00058,31,Female,Operations,Coordinator,32241,8,Medium,No,No,Meets Expectations,Bachelor's
+EMP00646,32,Female,Research & Development,Research Director,40000,2,Medium,No,No,Needs Improvement,PhD
+EMP01288,28,Non-Binary,IT,IT Support,23702,5,High,No,Yes,Exceeds Expectations,High School
+EMP00100,51,Male,Operations,Operations Manager,18588,23,High,No,Yes,Meets Expectations,PhD
+EMP00002,35,Non-Binary,Customer Support,Team Lead,23339,2,Very High,No,Yes,Needs Improvement,Master's
+EMP00781,34,Female,Sales,Sales Manager,38086,17,High,Yes,Yes,Needs Improvement,Master's
+EMP01097,38,Non-Binary,Customer Support,Support Agent,32451,9,High,No,No,Meets Expectations,Bachelor's
+EMP00384,37,Non-Binary,Finance,Finance Manager,9865,6,Medium,No,No,Exceeds Expectations,High School
+EMP00904,38,Female,Human Resources,HR Executive,29768,4,Medium,No,No,Exceeds Expectations,PhD
+EMP01326,45,Unknown,Finance,Financial Analyst,25198,2,High,No,Yes,Exceeds Expectations,Master's
+EMP00146,30,Male,IT,Data Analyst,39112,11,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00150,39,Female,Human Resources,HR Executive,28813,14,Medium,No,Yes,Meets Expectations,PhD
+EMP00877,53,Female,Sales,Sales Manager,21368,5,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP01001,38,Non-Binary,Finance,Accountant,40000,4,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP01418,18,Male,Operations,Coordinator,34975,0,Low,No,No,Exceeds Expectations,PhD
+EMP00724,23,Non-Binary,Finance,Finance Manager,21324,4,Low,No,Yes,Needs Improvement,PhD
+EMP00756,19,Male,IT,IT Support,30147,2,Very High,No,Yes,Meets Expectations,PhD
+EMP00391,31,Male,Research & Development,Lab Technician,33166,9,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00542,18,Female,Customer Support,Support Manager,18517,1,Medium,No,No,Needs Improvement,PhD
+EMP00534,50,Male,Human Resources,HR Executive,40000,2,High,No,No,Meets Expectations,Unknown
+EMP00502,49,Male,Finance,Finance Manager,24485,11,Medium,No,Yes,Exceeds Expectations,High School
+EMP00859,43,Non-Binary,Operations,Operations Analyst,40000,0,High,No,Yes,Meets Expectations,Master's
+EMP00287,49,Non-Binary,Finance,Financial Analyst,21678,30,Low,No,No,Meets Expectations,Bachelor's
+EMP00726,44,Male,Operations,Coordinator,40000,20,Medium,No,No,Needs Improvement,PhD
+EMP01233,40,Female,Operations,Operations Analyst,40000,1,High,No,No,Exceeds Expectations,PhD
+EMP00720,46,Male,Research & Development,Research Scientist,32839,7,High,No,No,Meets Expectations,Master's
+EMP00041,48,Male,Customer Support,Team Lead,24505,17,High,No,No,Needs Improvement,PhD
+EMP00651,35,Male,Customer Support,Team Lead,34044,11,Low,No,No,Exceeds Expectations,Bachelor's
+EMP01482,43,Male,Sales,Sales Representative,21656,2,Medium,No,No,Needs Improvement,Bachelor's
+EMP01010,23,Female,Human Resources,HR Executive,19898,1,Low,No,Yes,Needs Improvement,PhD
+EMP01310,41,Non-Binary,Human Resources,HR Executive,40000,15,High,No,No,Needs Improvement,Master's
+EMP00805,32,Female,IT,Data Analyst,40000,6,Very High,No,Yes,Meets Expectations,PhD
+EMP01449,24,Female,IT,Unknown,29936,6,Low,No,Yes,Needs Improvement,Bachelor's
+EMP01143,34,Female,Finance,Financial Analyst,40000,6,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP01170,27,Male,Human Resources,Recruiter,25082,6,Low,Yes,No,Exceeds Expectations,High School
+EMP00804,38,Non-Binary,Research & Development,Research Scientist,15185,9,Low,Yes,No,Needs Improvement,Bachelor's
+EMP00170,36,Female,IT,IT Support,40000,19,High,No,Yes,Exceeds Expectations,PhD
+EMP00350,31,Female,Sales,Sales Executive,22460,11,Low,No,No,Needs Improvement,PhD
+EMP00538,28,Female,Human Resources,HR Executive,40000,1,Medium,No,Yes,Exceeds Expectations,High School
+EMP00060,28,Non-Binary,Customer Support,Support Manager,26484,2,Medium,Yes,No,Exceeds Expectations,Bachelor's
+EMP01221,34,Male,IT,IT Support,13636,15,Medium,No,No,Needs Improvement,Master's
+EMP00468,31,Male,Human Resources,HR Manager,16039,11,Very High,No,No,Needs Improvement,PhD
+EMP00902,30,Female,Finance,Finance Manager,11444,0,High,Yes,No,Exceeds Expectations,Master's
+EMP00972,41,Male,Customer Support,Support Agent,40000,21,Low,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00766,30,Female,IT,IT Support,24055,3,Low,No,Yes,Needs Improvement,High School
+EMP00237,23,Female,Human Resources,Recruiter,40000,1,High,No,No,Exceeds Expectations,High School
+EMP00820,44,Non-Binary,Research & Development,Lab Technician,32741,19,Very High,No,Yes,Meets Expectations,High School
+EMP00474,30,Male,Operations,Coordinator,40000,2,Low,No,Yes,Needs Improvement,High School
+EMP00700,23,Male,Finance,Financial Analyst,40000,6,Medium,Yes,No,Needs Improvement,Bachelor's
+EMP01038,35,Non-Binary,Finance,Finance Manager,16535,1,High,No,Yes,Meets Expectations,Master's
+EMP00251,31,Female,Sales,Sales Representative,40000,6,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00027,41,Male,IT,Software Engineer,40000,6,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00089,37,Female,Finance,Finance Manager,29181,5,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP01112,41,Non-Binary,IT,Data Analyst,40000,18,Low,No,No,Exceeds Expectations,High School
+EMP01444,30,Male,IT,Software Engineer,20496,7,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00136,28,Non-Binary,Research & Development,Lab Technician,18178,7,Medium,No,No,Needs Improvement,Master's
+EMP01422,28,Female,Customer Support,Support Agent,20262,10,Medium,No,No,Meets Expectations,Bachelor's
+EMP00172,40,Female,Operations,Coordinator,22206,15,Medium,No,Yes,Needs Improvement,PhD
+EMP01111,37,Male,Human Resources,Unknown,40000,13,Low,No,No,Exceeds Expectations,High School
+EMP00103,46,Non-Binary,Customer Support,Support Agent,40000,11,High,No,No,Exceeds Expectations,High School
+EMP00912,43,Non-Binary,Finance,Finance Manager,17608,18,Low,Yes,No,Needs Improvement,High School
+EMP01081,29,Male,Operations,Operations Manager,12526,7,High,Yes,No,Meets Expectations,PhD
+EMP00592,31,Female,IT,IT Support,25454,8,High,Yes,No,Exceeds Expectations,Master's
+EMP00269,23,Non-Binary,Sales,Sales Executive,16911,5,High,No,Yes,Exceeds Expectations,Master's
+EMP00529,28,Female,Research & Development,Research Director,21991,6,Medium,No,Yes,Needs Improvement,PhD
+EMP00308,24,Female,Sales,Sales Executive,11197,5,Unknown,Yes,Yes,Meets Expectations,Bachelor's
+EMP00883,52,Female,IT,Data Analyst,15914,5,High,Yes,No,Meets Expectations,Bachelor's
+EMP00485,41,Non-Binary,Operations,Operations Analyst,19442,10,Low,Yes,Yes,Meets Expectations,PhD
+EMP00950,20,Female,Operations,Coordinator,38101,3,Very High,No,No,Exceeds Expectations,High School
+EMP00752,39,Female,Finance,Accountant,25629,20,Medium,No,Yes,Needs Improvement,Master's
+EMP00462,37,Male,Sales,Sales Executive,18863,3,Very High,No,No,Exceeds Expectations,PhD
+EMP01298,42,Non-Binary,Customer Support,Support Agent,28931,8,Medium,Yes,Yes,Meets Expectations,Bachelor's
+EMP01150,49,Male,Operations,Operations Analyst,12812,14,Very High,No,No,Meets Expectations,PhD
+EMP00072,38,Non-Binary,Finance,Financial Analyst,19163,6,Very High,No,No,Exceeds Expectations,PhD
+EMP00645,31,Female,Sales,Sales Manager,40000,4,Medium,Yes,Yes,Needs Improvement,Bachelor's
+EMP01208,32,Male,Finance,Accountant,11138,5,High,No,No,Meets Expectations,High School
+EMP01369,21,Non-Binary,IT,IT Support,14666,4,Medium,No,No,Needs Improvement,Bachelor's
+EMP01394,46,Male,IT,Software Engineer,14831,19,Very High,No,Yes,Needs Improvement,Master's
+EMP00523,39,Female,Sales,Sales Executive,27030,3,Medium,Yes,No,Meets Expectations,Master's
+EMP01254,22,Non-Binary,Finance,Finance Manager,22832,1,High,No,Yes,Meets Expectations,Bachelor's
+EMP00314,52,Female,Customer Support,Team Lead,40000,7,Low,No,No,Exceeds Expectations,PhD
+EMP01174,29,Male,Research & Development,Research Director,21312,3,Very High,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00212,35,Male,Sales,Sales Executive,18387,15,Low,No,No,Needs Improvement,PhD
+EMP00677,35,Female,Sales,Sales Executive,28954,1,Low,No,Yes,Needs Improvement,High School
+EMP00486,33,Non-Binary,Human Resources,Recruiter,26539,1,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00574,34,Non-Binary,Research & Development,Lab Technician,18731,6,Very High,No,Yes,Needs Improvement,Master's
+EMP00694,31,Female,IT,Data Analyst,22808,8,Medium,No,No,Unknown,Master's
+EMP00662,34,Male,IT,Software Engineer,40000,14,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00034,33,Non-Binary,Finance,Financial Analyst,36731,4,Medium,No,Yes,Needs Improvement,Master's
+EMP00806,26,Male,IT,IT Support,30897,0,Low,No,No,Needs Improvement,Master's
+EMP00539,33,Unknown,Research & Development,Research Director,21756,4,Low,No,No,Needs Improvement,PhD
+EMP01386,44,Non-Binary,Sales,Sales Manager,19831,3,Very High,Yes,No,Exceeds Expectations,High School
+EMP01329,45,Male,Human Resources,HR Manager,30645,16,High,No,Yes,Meets Expectations,PhD
+EMP00411,31,Male,Finance,Accountant,40000,6,High,No,Yes,Meets Expectations,High School
+EMP00093,38,Female,IT,IT Support,36049,17,Very High,No,Yes,Meets Expectations,High School
+EMP01269,39,Male,Finance,Financial Analyst,26484,12,High,No,Yes,Meets Expectations,High School
+EMP01022,43,Male,Finance,Finance Manager,13193,7,Low,No,Yes,Exceeds Expectations,High School
+EMP00686,45,Female,Sales,Sales Manager,40000,5,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP00757,43,Female,Human Resources,HR Executive,22332,18,Medium,No,No,Needs Improvement,High School
+EMP01176,25,Non-Binary,Finance,Financial Analyst,16528,6,Medium,Yes,Yes,Exceeds Expectations,PhD
+EMP00305,34,Male,Customer Support,Support Agent,26484,5,Very High,No,No,Exceeds Expectations,Master's
+EMP00452,35,Non-Binary,Research & Development,Research Scientist,36555,1,Very High,Yes,No,Needs Improvement,High School
+EMP00380,47,Non-Binary,Operations,Operations Manager,38947,14,High,No,No,Exceeds Expectations,Master's
+EMP00040,28,Non-Binary,Finance,Financial Analyst,13982,2,Medium,No,Yes,Exceeds Expectations,Master's
+EMP01419,39,Non-Binary,Sales,Sales Representative,27747,20,Low,Yes,Yes,Exceeds Expectations,PhD
+EMP01440,32,Male,IT,IT Support,26468,6,High,No,Yes,Meets Expectations,Bachelor's
+EMP01121,44,Male,Customer Support,Support Manager,35933,5,Low,No,No,Meets Expectations,High School
+EMP00405,35,Non-Binary,Customer Support,Team Lead,15122,15,Medium,No,No,Needs Improvement,Master's
+EMP00777,39,Non-Binary,Research & Development,Research Scientist,11724,18,High,No,Yes,Needs Improvement,High School
+EMP01002,28,Non-Binary,Sales,Sales Executive,10318,3,Medium,Yes,Yes,Needs Improvement,Master's
+EMP00913,36,Male,Operations,Operations Manager,16711,11,High,No,Yes,Exceeds Expectations,PhD
+EMP01198,26,Male,Human Resources,Recruiter,40000,6,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00282,25,Non-Binary,Human Resources,Recruiter,25189,2,High,Yes,Yes,Exceeds Expectations,High School
+EMP00478,34,Non-Binary,Finance,Financial Analyst,26484,9,High,No,Yes,Needs Improvement,High School
+EMP00010,41,Male,IT,Data Analyst,26484,23,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00063,34,Female,Human Resources,Recruiter,15381,1,Very High,Yes,No,Exceeds Expectations,Master's
+EMP00255,29,Male,IT,IT Support,24846,1,Low,Yes,No,Meets Expectations,High School
+EMP00867,46,Non-Binary,Customer Support,Support Agent,40000,15,High,No,Yes,Meets Expectations,PhD
+EMP00575,50,Female,IT,Data Analyst,40000,10,Very High,No,No,Meets Expectations,PhD
+EMP01158,50,Female,Human Resources,HR Manager,16052,17,Low,No,Yes,Needs Improvement,High School
+EMP00657,48,Male,Customer Support,Team Lead,40000,1,Low,Yes,No,Meets Expectations,Bachelor's
+EMP00755,26,Female,IT,Software Engineer,23418,3,Medium,No,No,Meets Expectations,High School
+EMP01355,27,Female,Sales,Sales Representative,40000,7,High,No,No,Exceeds Expectations,PhD
+EMP00559,45,Female,Finance,Financial Analyst,40000,19,Medium,No,No,Needs Improvement,Master's
+EMP00897,35,Female,Sales,Sales Executive,36922,14,Medium,No,No,Exceeds Expectations,High School
+EMP01228,28,Male,Unknown,Research Scientist,33371,7,Very High,No,Yes,Needs Improvement,High School
+EMP01260,44,Male,Sales,Sales Executive,40000,23,Medium,No,No,Exceeds Expectations,PhD
+EMP00414,35,Male,Customer Support,Support Manager,40000,17,High,No,Yes,Needs Improvement,Master's
+EMP00469,44,Male,Sales,Sales Representative,18766,21,Very High,No,Yes,Needs Improvement,Master's
+EMP00020,40,Male,Finance,Finance Manager,20019,2,Medium,No,No,Needs Improvement,PhD
+EMP00359,57,Female,Sales,Sales Manager,40000,7,Low,No,Yes,Needs Improvement,High School
+EMP00971,38,Male,Sales,Sales Representative,35997,21,Very High,,No,Meets Expectations,High School
+EMP00147,39,Male,IT,Software Engineer,27450,12,Low,No,Yes,Meets Expectations,Bachelor's
+EMP01185,53,Female,Sales,Sales Manager,38469,20,Low,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00245,34,Male,Customer Support,Team Lead,40000,5,Very High,Yes,Yes,Meets Expectations,Master's
+EMP00715,39,Non-Binary,Customer Support,Support Manager,40000,13,Very High,No,Yes,Unknown,PhD
+EMP00564,34,Non-Binary,Finance,Accountant,27841,16,Very High,,No,Exceeds Expectations,Master's
+EMP00487,18,Female,Customer Support,Team Lead,34324,0,Very High,No,Yes,Meets Expectations,High School
+EMP01367,45,Female,Customer Support,Team Lead,13944,2,Very High,No,No,Meets Expectations,PhD
+EMP00102,47,Male,Human Resources,Recruiter,24962,22,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00416,18,Male,Human Resources,Recruiter,22843,1,Medium,Yes,Yes,Exceeds Expectations,PhD
+EMP00900,48,Male,Customer Support,Team Lead,16196,12,Very High,No,No,Meets Expectations,Master's
+EMP00294,34,Non-Binary,Operations,Operations Manager,27459,9,Very High,Yes,Yes,Meets Expectations,Master's
+EMP00378,25,Non-Binary,IT,Data Analyst,40000,8,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP01146,29,Non-Binary,Research & Development,Lab Technician,36900,6,Medium,No,Yes,Exceeds Expectations,PhD
+EMP01431,58,Female,Human Resources,Recruiter,40000,20,Very High,No,No,Meets Expectations,Master's
+EMP00059,30,Non-Binary,IT,Software Engineer,27493,11,Medium,Yes,No,Meets Expectations,Master's
+EMP00503,30,Male,IT,Data Analyst,18007,10,Medium,Yes,No,Needs Improvement,Master's
+EMP00812,47,Non-Binary,Customer Support,Support Manager,23058,11,Medium,No,Yes,Exceeds Expectations,High School
+EMP00821,28,Non-Binary,Finance,Accountant,22069,6,Low,No,Yes,Meets Expectations,Master's
+EMP01480,31,Female,Finance,Finance Manager,22875,14,Very High,No,Yes,Needs Improvement,PhD
+EMP00979,41,Male,Finance,Financial Analyst,20633,45,High,No,Yes,Needs Improvement,High School
+EMP01219,44,Female,Sales,Sales Manager,29051,26,Medium, No ,Yes,Needs Improvement,PhD
+EMP00193,55,Female,IT,Software Engineer,19522,22,Medium,No,Yes,Meets Expectations,PhD
+EMP01093,52,Non-Binary,Research & Development,Lab Technician,31706,27,Very High,No,No,Needs Improvement,High School
+EMP00578,23,Male,Finance,Accountant,25929,6,Medium,No,No,Meets Expectations,PhD
+EMP00442,47,Female,IT,IT Support,21652,17,High,No,No,Meets Expectations,High School
+EMP01067,47,Male,Finance,Financial Analyst,26484,1,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP01493,30,Female,Human Resources,HR Manager,29753,12,High,No,No,Needs Improvement,High School
+EMP00126,50,Female,Finance,Accountant,40000,24,Low,No,Yes,Unknown,PhD
+EMP01191,19,Male,Customer Support,Team Lead,40000,0,Medium,Yes,Yes,Meets Expectations,Bachelor's
+EMP01391,48,Female,Human Resources,HR Executive,20963,1,Medium,No,Yes,Exceeds Expectations,Master's
+EMP01448,49,Male,Research & Development,Lab Technician,40000,3,Very High,No,No,Exceeds Expectations,Master's
+EMP00822,40,Non-Binary,Research & Development,Lab Technician,29523,16,High,No,No,Exceeds Expectations,PhD
+EMP01255,38,Male,Research & Development,Unknown,28675,21,Low,No,Yes,Meets Expectations,High School
+EMP00854,42,Male,Human Resources,HR Manager,40000,7,Medium,No,No,Needs Improvement,High School
+EMP00461,27,Female,IT,IT Support,35331,7,Very High,No,No,Exceeds Expectations,High School
+EMP00663,29,Male,Sales,Sales Manager,21332,7,Medium,Yes,No,Exceeds Expectations,High School
+EMP00497,20,Female,Human Resources,HR Executive,20095,0,Medium,No,No,Meets Expectations,High School
+EMP01195,34,Female,Human Resources,HR Executive,22932,13,Low,No,No,Exceeds Expectations,Master's
+EMP00296,31,Male,Finance,Accountant,11872,13,High,Yes,No,Needs Improvement,Master's
+EMP00579,23,Male,Finance,Finance Manager,39966,5,Medium,No,No,Meets Expectations,Master's
+EMP00162,26,Non-Binary,Customer Support,Team Lead,26668,6,Very High,No,No,Needs Improvement,Master's
+EMP00521,47,Female,Research & Development,Research Scientist,11554,0,High,No,Yes,Meets Expectations,Master's
+EMP01115,32,Non-Binary,Sales,Sales Executive,23415,9,Low,No,No,Needs Improvement,Bachelor's
+EMP00896,42,Male,Research & Development,Research Director,12352,15,High,No,Yes,Meets Expectations,Bachelor's
+EMP00919,20,Male,IT,IT Support,40000,0,Medium,No,Yes,Needs Improvement,Master's
+EMP01380,23,Male,IT,IT Support,40000,0,High,Yes,Yes,Needs Improvement,Bachelor's
+EMP00393,26,Male,Finance,Financial Analyst,36122,7,Low,No,Yes,Meets Expectations,PhD
+EMP01281,51,Non-Binary,IT,Software Engineer,29422,4,Medium,No,No,Exceeds Expectations,High School
+EMP01333,52,Female,Operations,Coordinator,38101,10,Medium,Yes,Yes,Needs Improvement,Master's
+EMP00164,37,Non-Binary,Finance,Financial Analyst,33551,6,Low,No,Yes,Needs Improvement,Master's
+EMP01445,29,Non-Binary,Finance,Finance Manager,34979,3,High,No,Yes,Meets Expectations,Master's
+EMP00967,37,Male,Sales,Sales Manager,40000,6,Low,Yes,No,Meets Expectations,Master's
+EMP01204,27,Non-Binary,Operations,Coordinator,26529,7,High,No,Yes,Unknown,High School
+EMP00122,36,Female,Research & Development,Lab Technician,33471,1,Low,Yes,Yes,Meets Expectations,Bachelor's
+EMP00095,31,Unknown,Research & Development,Lab Technician,17501,7,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP01491,23,Male,IT,Data Analyst,26043,1,Very High,No,No,Needs Improvement,Bachelor's
+EMP00303,21,Non-Binary,IT,Software Engineer,20201,2,Very High,No,No,Meets Expectations,PhD
+EMP00669,18,Female,Finance,Accountant,19140,0,Medium,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00860,55,Male,IT,Software Engineer,38090,3,Unknown,No,Unknown,Needs Improvement,Bachelor's
+EMP01082,45,Female,Operations,Operations Analyst,11711,3,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00148,31,Female,Human Resources,HR Executive,38778,9,High,No,No,Exceeds Expectations,Bachelor's
+EMP00180,26,Non-Binary,Customer Support,Team Lead,22019,1,Low,No,Yes,Exceeds Expectations,Master's
+EMP01490,40,Non-Binary,Human Resources,HR Manager,25796,0,High,No,No,Needs Improvement,Bachelor's
+EMP01292,31,Non-Binary,IT,Software Engineer,40000,14,High,No,Yes,Meets Expectations,Master's
+EMP01090,33,Male,IT,Software Engineer,37644,13,Unknown,No,Yes,Meets Expectations,Master's
+EMP01372,21,Female,IT,Data Analyst,11075,1,Low,No,No,Exceeds Expectations,Master's
+EMP00830,40,Female,Human Resources,Recruiter,24729,0,Very High,No,Yes,Exceeds Expectations,High School
+EMP01311,20,Non-Binary,Research & Development,Lab Technician,40000,1,High,No,Unknown,Exceeds Expectations,High School
+EMP01062,27,Male,IT,IT Support,23945,7,Low,No,No,Meets Expectations,Master's
+EMP00599,37,Non-Binary,Human Resources,HR Executive,36066,6,Very High,No,No,Meets Expectations,PhD
+EMP01492,33,Male,Operations,Coordinator,40000,3,High,No,No,Exceeds Expectations,High School
+EMP00466,48,Male,Sales,Sales Executive,19346,6,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00650,51,Male,Customer Support,Unknown,40000,9,Very High,No,Yes,Meets Expectations,High School
+EMP01397,45,Male,Research & Development,Research Scientist,18517,0,Very High,Yes,Yes,Meets Expectations,Bachelor's
+EMP01078,33,Female,IT,IT Support,31680,6,Very High,No,No,Meets Expectations,Bachelor's
+EMP01124,36,Male,Customer Support,Team Lead,32102,6,Medium,No,No,Exceeds Expectations,High School
+EMP01309,37,Non-Binary,Finance,Financial Analyst,23287,17,Very High,No,Yes,Meets Expectations,PhD
+EMP00373,37,Male,IT,Data Analyst,30461,10,High,No,No,Meets Expectations,Master's
+EMP00304,54,Non-Binary,IT,IT Support,29713,14,Low,No,No,Exceeds Expectations,Bachelor's
+EMP00949,30,Male,Operations,Operations Manager,999999,11,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP01481,31,Female,Operations,Operations Manager,18482,6,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00563,34,Female,Customer Support,Support Manager,40000,15,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP01064,18,Non-Binary,Finance,Accountant,40000,0,Medium,,No,Needs Improvement,High School
+EMP00085,23,Male,Customer Support,Team Lead,40000,2,High,No,No,Needs Improvement,High School
+EMP01373,43,Non-Binary,Sales,Sales Representative,15294,17,Low,No,No,Needs Improvement,High School
+EMP01284,32,Male,IT,Data Analyst,24954,4,Very High,No,No,Exceeds Expectations,PhD
+EMP01331,18,Non-Binary,Sales,Sales Representative,30965,1,Medium, Yes ,Yes,Needs Improvement,High School
+EMP00697,31,Non-Binary,Unknown,Finance Manager,30814,9,Very High,No,Yes,Needs Improvement,PhD
+EMP00399,46,Non-Binary,Sales,Sales Manager,40000,5,High,No,Yes,Needs Improvement,Bachelor's
+EMP00965,48,Non-Binary,Customer Support,Team Lead,40000,0,Low,No,No,Unknown,Master's
+EMP00022,30,Male,Finance,Accountant,40000,12,Medium,No,No,Needs Improvement,High School
+EMP01469,29,Non-Binary,Human Resources,Recruiter,40000,1,High,No,No,Exceeds Expectations,High School
+EMP00082,32,Female,Sales,Sales Executive,15054,10,Very High,No,No,Meets Expectations,PhD
+EMP00571,30,Male,Research & Development,Research Director,35810,5,Very High,No,No,Needs Improvement,High School
+EMP00582,28,Male,Sales,Sales Executive,21173,3,Very High,Yes,No,Meets Expectations,High School
+EMP00484,18,Female,IT,IT Support,24452,1,Very High,Yes,Yes,Meets Expectations,PhD
+EMP00467,28,Male,Sales,Sales Executive,20226,9,Medium,Yes,Yes,Meets Expectations,High School
+EMP00664,30,Non-Binary,Operations,Operations Manager,10543,13,Low,No,No,Exceeds Expectations,PhD
+EMP00367,36,Male,Research & Development,Research Director,28847,1,Very High,No,No,Exceeds Expectations,PhD
+EMP01246,51,Non-Binary,Research & Development,Research Director,21139,20,Very High,No,No,Needs Improvement,Master's
+EMP01245,37,Male,Sales,Sales Representative,31961,9,High,No,No,Needs Improvement,Master's
+EMP01085,33,Female,Operations,Operations Analyst,17551,1,High,No,Yes,Exceeds Expectations,High School
+EMP00106,46,Female,Finance,Financial Analyst,20613,27,Low,Yes,Yes,Meets Expectations,High School
+EMP00043,24,Non-Binary,Human Resources,HR Manager,40000,6,Low,Yes,Yes,Exceeds Expectations,High School
+EMP01316,32,Non-Binary,Operations,Coordinator,13852,0,Medium,No,Yes,Needs Improvement,PhD
+EMP00097,41,Non-Binary,IT,Data Analyst,29877,23,High,No,No,Exceeds Expectations,PhD
+EMP01190,51,Non-Binary,Operations,Operations Manager,18362,25,Very High,No,Yes,Needs Improvement,PhD
+EMP00386,28,Male,Sales,Sales Executive,14474,9,Medium,No,No,Meets Expectations,Bachelor's
+EMP00567,32,Female,Sales,Sales Manager,26271,3,Low,Yes,No,Needs Improvement,Master's
+EMP01305,24,Male,Finance,Unknown,36578,7,High,Yes,Yes,Exceeds Expectations,PhD
+EMP00142,34,Female,Customer Support,Support Manager,15395,2,Very High,No,No,Exceeds Expectations,Master's
+EMP00110,40,Non-Binary,IT,Data Analyst,38023,7,Medium,No,Yes,Exceeds Expectations,PhD
+EMP01402,35,Female,Finance,Accountant,16491,19,Medium,No,No,Exceeds Expectations,PhD
+EMP01003,35,Non-Binary,IT,Data Analyst,26925,14,Very High,No,Yes,Meets Expectations,High School
+EMP00631,39,Non-Binary,Finance,Accountant,24007,3,Medium,No,No,Meets Expectations,Bachelor's
+EMP01341,38,Non-Binary,IT,Data Analyst,24919,16,High,No,No,Meets Expectations,PhD
+EMP00898,45,Female,Human Resources,HR Manager,17015,24,Low,Yes,Yes,Needs Improvement,Unknown
+EMP01049,33,Non-Binary,Customer Support,Support Manager,37383,6,High,No,Yes,Needs Improvement,Master's
+EMP00562,38,Non-Binary,Research & Development,Research Scientist,16731,10,Medium,No,Yes,Exceeds Expectations,High School
+EMP00992,30,Non-Binary,Unknown,Support Manager,33444,8,Very High,No,Yes,Meets Expectations,Master's
+EMP00049,49,Male,Operations,Operations Manager,18319,26,High,No,No,Needs Improvement,High School
+EMP01330,29,Non-Binary,Human Resources,HR Manager,30387,7,Very High,No,No,Meets Expectations,High School
+EMP00291,32,Non-Binary,Operations,Operations Manager,40000,9,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00316,46,Female,Human Resources,HR Executive,37156,23,Very High,No,Yes,Meets Expectations,Master's
+EMP00964,48,Non-Binary,Human Resources,Recruiter,36841,30,High,No,Yes,Meets Expectations,Bachelor's
+EMP00337,35,Female,Operations,Operations Analyst,13149,16,Very High,No,No,Meets Expectations,Bachelor's
+EMP00408,26,Female,Human Resources,Recruiter,40000,3,Low,No,No,Meets Expectations,Bachelor's
+EMP01261,41,Male,IT,Software Engineer,15833,13,High,No,No,Meets Expectations,High School
+EMP01144,22,Non-Binary,Sales,Sales Executive,20516,3,Low,No,No,Meets Expectations,Master's
+EMP01114,44,Male,Sales,Sales Representative,31130,18,Very High,Yes,No,Exceeds Expectations,High School
+EMP01417,32,Non-Binary,Sales,Sales Representative,13822,9,Medium,No,No,Exceeds Expectations,Master's
+EMP01193,45,Non-Binary,Research & Development,Research Scientist,17662,18,Low,Yes,Unknown,Needs Improvement,Master's
+EMP00561,34,Non-Binary,Human Resources,Recruiter,34640,2,Medium,No,No,Needs Improvement,PhD
+EMP00610,20,Female,Sales,Sales Executive,9955,1,Medium,No,No,Needs Improvement,PhD
+EMP00865,18,Male,IT,Software Engineer,20837,1,Low,Yes,Yes,Meets Expectations,Master's
+EMP01019,33,Non-Binary,Sales,Sales Representative,17677,16,Medium,No,No,Meets Expectations,Bachelor's
+EMP00397,44,Female,Operations,Coordinator,13372,3,Low,No,No,Meets Expectations,High School
+EMP01378,26,Non-Binary,Operations,Operations Manager,15989,4,Very High,No,No,Exceeds Expectations,Master's
+EMP00785,24,Non-Binary,IT,Software Engineer,30832,1,Medium,No,Yes,Needs Improvement,Master's
+EMP00569,40,Non-Binary,Human Resources,HR Manager,23069,9,Low,Yes,No,Needs Improvement,Master's
+EMP01018,37,Non-Binary,Sales,Sales Representative,9929,14,Low,Yes,No,Needs Improvement,PhD
+EMP01405,21,Female,Operations,Operations Analyst,11736,3,Medium,No,No,Needs Improvement,Master's
+EMP00733,20,Female,Customer Support,Team Lead,40000,0,High,No,No,Needs Improvement,High School
+EMP00440,31,Non-Binary,Operations,Coordinator,19345,4,Very High,No,No,Needs Improvement,High School
+EMP00533,40,Male,Research & Development,Lab Technician,40000,0,Low,No,No,Needs Improvement,PhD
+EMP01268,26,Female,Unknown,Recruiter,9832,9,Medium,No,No,Exceeds Expectations,Master's
+EMP00345,38,Male,Sales,Sales Manager,34723,18,Low,No,No,Needs Improvement,PhD
+EMP01029,26,Non-Binary,Research & Development,Research Director,17148,7,Very High,,No,Meets Expectations,PhD
+EMP00682,18,Male,Operations,Operations Analyst,21020,1,High,No,No,Needs Improvement,High School
+EMP00425,36,Female,Human Resources,Recruiter,32286,0,High,No,Yes,Needs Improvement,High School
+EMP01408,45,Female,Research & Development,Research Director,36188,18,Very High,No,No,Meets Expectations,Master's
+EMP00840,29,Non-Binary,Research & Development,Lab Technician,33633,11,Very High,No,No,Needs Improvement,Bachelor's
+EMP00104,34,Male,Customer Support,Support Agent,40000,12,High,Yes,Yes,Needs Improvement,PhD
+EMP01040,19,Non-Binary,Research & Development,Research Director,40000,2,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00101,43,Male,Human Resources,HR Executive,37892,22,High,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00818,31,Male,Human Resources,Recruiter,18794,14,Very High,No,Yes,Needs Improvement,PhD
+EMP00541,37,Non-Binary,Sales,Sales Executive,14030,0,Low,Yes,Yes,Meets Expectations,High School
+EMP01496,36,Non-Binary,Sales,Sales Executive,40000,12,Medium,No,No,Needs Improvement,Bachelor's
+EMP00644,23,Female,Research & Development,Lab Technician,40000,5,Very High,No,No,Unknown,Bachelor's
+EMP01498,50,Non-Binary,Customer Support,Support Agent,13848,29,High,No,No,Meets Expectations,Bachelor's
+EMP01153,31,Non-Binary,Human Resources,HR Manager,40000,7,Medium,No,Yes,Needs Improvement,Master's
+EMP00937,39,Non-Binary,Human Resources,Recruiter,19249,4,High,Yes,No,Needs Improvement,PhD
+EMP00527,37,Male,Human Resources,HR Executive,34431,1,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00612,23,Non-Binary,Research & Development,Lab Technician,9635,5,Medium,No,Yes,Needs Improvement,PhD
+EMP00353,55,Male,Finance,Finance Manager,12791,11,Low,No,No,Exceeds Expectations,High School
+EMP00597,25,Female,Human Resources,HR Executive,25063,5,Low,Yes,No,Meets Expectations,PhD
+EMP01344,31,Male,Operations,Operations Manager,40000,7,High,No,No,Meets Expectations,PhD
+EMP01168,41,Non-Binary,Sales,Sales Manager,38293,4,High,No,No,Meets Expectations,PhD
+EMP00198,41,Male,Operations,Operations Manager,25965,24,Medium,No,No,Needs Improvement,Master's
+EMP00453,38,Non-Binary,IT,Data Analyst,40000,6,Low,No,No,Needs Improvement,High School
+EMP00120,55,Male,Human Resources,HR Manager,40000,1,Low,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00933,26,Male,Sales,Sales Representative,31632,3,Very High,No,No,Needs Improvement,Bachelor's
+EMP01169,37,Non-Binary,Research & Development,Research Director,25307,19,Low,No,No,Exceeds Expectations,PhD
+EMP00256,53,Non-Binary,IT,Data Analyst,40000,20,High,No,Yes,Needs Improvement,Bachelor's
+EMP00035,47,Female,Sales,Sales Executive,40000,25,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00939,18,Female,IT,IT Support,19290,1,High,No,No,Meets Expectations,PhD
+EMP00927,35,Male,Sales,Unknown,40000,9,High,No,Yes,Needs Improvement,Bachelor's
+EMP00779,34,Male,IT,IT Support,40000,5,High,No,Yes,Meets Expectations,High School
+EMP01314,34,Male,IT,Data Analyst,19654,12,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP01458,49,Female,Research & Development,Lab Technician,40000,3,Very High,No,No,Meets Expectations,Bachelor's
+EMP00233,30,Female,Finance,Financial Analyst,14013,1,High,Yes,No,Meets Expectations,PhD
+EMP00432,38,Female,IT,Software Engineer,23433,11,Very High,No,No,Meets Expectations,Master's
+EMP00299,18,Female,IT,Data Analyst,33708,1,High,No,Yes,Needs Improvement,Master's
+EMP00208,29,Male,Research & Development,Lab Technician,33613,0,Low,Yes,Yes,Meets Expectations,PhD
+EMP00349,28,Non-Binary,Finance,Accountant,11093,4,Medium,No,Yes,Meets Expectations,PhD
+EMP01147,38,Non-Binary,Human Resources,HR Executive,17978,9,High,No,Yes,Meets Expectations,High School
+EMP00714,38,Female,Customer Support,Support Manager,33020,5,Low,Yes,Yes,Needs Improvement,Master's
+EMP01017,46,Male,Human Resources,HR Executive,19293,29,Medium,No,Yes,Meets Expectations,High School
+EMP01249,18,Non-Binary,Human Resources,Recruiter,21031,0,Low,No,No,Exceeds Expectations,Master's
+EMP00244,19,Female,Research & Development,Research Director,40000,2,Medium,No,No,Needs Improvement,PhD
+EMP01132,36,Male,Customer Support,Support Manager,18960,4,Very High,No,No,Meets Expectations,PhD
+EMP00727,46,Male,Human Resources,HR Executive,15017,2,Low,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP01433,43,Non-Binary,Research & Development,Research Scientist,22636,5,Very High,No,Yes,Meets Expectations,High School
+EMP01307,50,Female,Finance,Accountant,14847,11,Very High,No,Yes,Needs Improvement,Master's
+EMP00339,26,Non-Binary,Operations,Operations Manager,27639,2,Low,No,No,Meets Expectations,High School
+EMP00342,47,Non-Binary,Finance,Accountant,40000,0,Low,No,Yes,Meets Expectations,PhD
+EMP00775,23,Male,IT,IT Support,26484,5,Low,,Yes,Needs Improvement,PhD
+EMP00572,33,Non-Binary,Sales,Sales Manager,32436,14,High,No,Yes,Meets Expectations,High School
+EMP00240,45,Female,Customer Support,Team Lead,40000,26,Medium,,Yes,Needs Improvement,Master's
+EMP01258,38,Female,IT,Data Analyst,27543,19,Low,No,Yes,Needs Improvement,High School
+EMP00921,20,Female,Operations,Operations Analyst,6176,1,Low,No,No,Needs Improvement,High School
+EMP01446,34,Female,Finance,Financial Analyst,40000,3,High,No,No,Needs Improvement,PhD
+EMP00754,34,Male,Operations,Operations Analyst,24401,16,Medium,No,No,Exceeds Expectations,PhD
+EMP00570,31,Female,Research & Development,Lab Technician,40000,3,High,No,No,Needs Improvement,High School
+EMP00796,36,Non-Binary,Finance,Finance Manager,22744,9,Low,No,No,Exceeds Expectations,High School
+EMP00630,22,Female,Human Resources,HR Manager,8478,1,Low,No,Yes,Exceeds Expectations,High School
+EMP00057,30,Non-Binary,Sales,Sales Representative,21933,0,Medium,No,No,Meets Expectations,High School
+EMP00974,48,Female,Sales,Sales Representative,16193,20,Medium,No,No,Needs Improvement,High School
+EMP00844,26,Male,IT,Data Analyst,40000,7,Very High,No,No,Meets Expectations,PhD
+EMP01339,31,Male,Operations,Coordinator,40000,9,Very High,No,Yes,Needs Improvement,Master's
+EMP00847,27,Female,Human Resources,Recruiter,18128,8,Low,No,No,Meets Expectations,PhD
+EMP00331,30,Female,Finance,Accountant,14658,2,Medium,No,No,Needs Improvement,High School
+EMP01217,30,Female,Customer Support,Support Manager,6255,4,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP00915,34,Female,Human Resources,HR Manager,22693,2,High,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00357,45,Female,Operations,Operations Manager,36102,18,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00712,40,Male,Sales,Sales Manager,16070,0,Medium,No,Yes,Meets Expectations,Master's
+EMP01359,34,Female,Customer Support,Support Manager,40000,17,Medium,No,No,Needs Improvement,Master's
+EMP01377,37,Non-Binary,IT,IT Support,23304,7,Very High,No,No,Needs Improvement,Bachelor's
+EMP00390,35,Male,Sales,Sales Representative,26484,16,Very High,No,No,Meets Expectations,High School
+EMP00247,55,Male,Human Resources,HR Manager,40000,14,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00788,18,Male,Research & Development,Research Director,25159,0,Very High,Yes,No,Needs Improvement,Bachelor's
+EMP00809,31,Female,Finance,Finance Manager,40000,9,Medium,No,Yes,Meets Expectations,Master's
+EMP00587,21,Male,Finance,Finance Manager,40000,2,Very High,No,Yes,Exceeds Expectations,Master's
+EMP01148,34,Female,Human Resources,HR Manager,39938,17,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00495,37,Non-Binary,IT,IT Support,14458,12,High,No,No,Exceeds Expectations,PhD
+EMP00430,29,Non-Binary,Operations,Operations Manager,30578,9,Very High,No,No,Exceeds Expectations,High School
+EMP01048,29,Female,Research & Development,Research Scientist,34577,10,High,No,No,Meets Expectations,High School
+EMP00945,19,Non-Binary,Finance,Financial Analyst,19956,0,High,No,Yes,Meets Expectations,High School
+EMP00655,23,Non-Binary,Human Resources,Recruiter,32944,1,Low,No,No,Needs Improvement,High School
+EMP01354,26,Non-Binary,Operations,Operations Analyst,22432,1,Low,No,Yes,Needs Improvement,Master's
+EMP00942,42,Non-Binary,Customer Support,Team Lead,31951,17,High,No,No,Needs Improvement,High School
+EMP00908,44,Female,Customer Support,Team Lead,9667,15,High,No,No,Meets Expectations,Bachelor's
+EMP01327,40,Female,Human Resources,Recruiter,33832,0,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00317,36,Male,Research & Development,Research Scientist,16296,17,Very High,No,No,Meets Expectations,Master's
+EMP01334,31,Female,Research & Development,Research Scientist,17054,2,Low,No,Yes,Needs Improvement,Master's
+EMP00598,38,Male,Finance,Financial Analyst,40000,3,Very High,No,No,Exceeds Expectations,Master's
+EMP01287,52,Non-Binary,Operations,Operations Analyst,24762,9,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00114,35,Female,Finance,Finance Manager,27089,5,High,Yes,Yes,Meets Expectations,PhD
+EMP01425,35,Male,Finance,Financial Analyst,18201,8,Very High,No,No,Needs Improvement,Bachelor's
+EMP00710,35,Non-Binary,Research & Development,Lab Technician,28397,3,Very High,Yes,Yes,Exceeds Expectations,High School
+EMP00746,29,Female,Human Resources,Recruiter,19073,6,High,Yes,No,Meets Expectations,Master's
+EMP00881,33,Female,IT,Software Engineer,40000,11,Very High,No,No,Meets Expectations,Bachelor's
+EMP01227,39,Female,Finance,Financial Analyst,31908,9,Very High,No,No,Needs Improvement,Bachelor's
+EMP01352,18,Female,Finance,Accountant,33290,1,High,No,No,Needs Improvement,High School
+EMP00415,41,Male,Customer Support,Support Manager,18848,4,Low,No,Yes,Exceeds Expectations,High School
+EMP00514,35,Female,Finance,Financial Analyst,24971,6,Low,No,No,Meets Expectations,Master's
+EMP00153,28,Female,Human Resources,HR Manager,29646,6,Low,Yes,Yes,Meets Expectations,Bachelor's
+EMP01209,24,Male,IT,Software Engineer,40000,4,Very High,No,Yes,Meets Expectations,High School
+EMP00121,45,Non-Binary,IT,Unknown,18150,10,Low,Yes,No,Meets Expectations,High School
+EMP00695,38,Female,Research & Development,Research Scientist,19296,18,Low,No,No,Needs Improvement,Bachelor's
+EMP00954,18,Female,Customer Support,Team Lead,21899,1,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00031,31,Non-Binary,IT,Software Engineer,32902,10,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00284,38,Male,Research & Development,Research Director,27611,8,Medium,No,No,Exceeds Expectations,PhD
+EMP00285,44,Female,Finance,Financial Analyst,22663,11,High,No,No,Needs Improvement,Master's
+EMP00604,51,Male,Research & Development,Research Director,40000,10,Very High,No,Yes,Exceeds Expectations,High School
+EMP01279,31,Female,Customer Support,Support Agent,12937,10,Low,No,No,Needs Improvement,Master's
+EMP00684,28,Female,Sales,Sales Representative,35618,3,Unknown,No,No,Exceeds Expectations,PhD
+EMP00428,49,Male,Operations,Operations Analyst,18869,17,Medium,No,No,Needs Improvement,Bachelor's
+EMP00139,46,Non-Binary,Research & Development,Lab Technician,24590,6,Medium,Yes,Yes,Meets Expectations,Bachelor's
+EMP00133,44,Female,IT,Data Analyst,25269,0,Low,No,No,Needs Improvement,PhD
+EMP00951,38,Female,Finance,Finance Manager,28365,10,High,No,Yes,Meets Expectations,High School
+EMP01136,41,Non-Binary,Customer Support,Support Manager,16704,8,Medium,No,Yes,Exceeds Expectations,High School
+EMP00885,48,Female,Finance,Accountant,32122,12,Low,No,No,Needs Improvement,High School
+EMP00213,28,Unknown,IT,IT Support,24784,2,Low,Yes,Yes,Needs Improvement,High School
+EMP00871,26,Female,Customer Support,Team Lead,22352,9,Very High,No,No,Meets Expectations,Bachelor's
+EMP01126,40,Female,Operations,Coordinator,19290,3,Low,No,Yes,Meets Expectations,PhD
+EMP00863,44,Male,IT,Data Analyst,34848,15,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP01159,44,Non-Binary,Operations,Operations Analyst,29547,5,High,No,No,Meets Expectations,Bachelor's
+EMP01171,23,Non-Binary,Sales,Sales Representative,17998,6,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP01252,30,Female,Research & Development,Research Scientist,12867,0,Very High,No,Yes,Exceeds Expectations,High School
+EMP00409,31,Female,Sales,Sales Executive,18084,3,Very High,No,Yes,Exceeds Expectations,High School
+EMP00866,33,Female,IT,IT Support,40000,1,Low,Yes,No,Needs Improvement,PhD
+EMP00931,23,Male,Sales,Sales Manager,11325,6,Very High,No,Yes,Exceeds Expectations,High School
+EMP01452,36,Female,Customer Support,Support Agent,24653,16,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00943,43,Non-Binary,Finance,Accountant,33460,7,Very High,No,No,Meets Expectations,Bachelor's
+EMP01041,40,Female,IT,Software Engineer,19674,13,High,No,No,Exceeds Expectations,Bachelor's
+EMP01139,40,Non-Binary,Operations,Coordinator,27658,3,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00910,18,Non-Binary,Research & Development,Research Director,30198,1,Low,No,No,Needs Improvement,High School
+EMP00276,45,Female,Finance,Accountant,36053,23,Low,,Yes,Needs Improvement,Master's
+EMP00827,32,Male,Research & Development,Lab Technician,28601,15,Low,No,Yes,Needs Improvement,PhD
+EMP00701,25,Male,Human Resources,HR Manager,22946,7,Medium,No,No,Meets Expectations,High School
+EMP01470,37,Female,Research & Development,Research Scientist,40000,12,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP01028,41,Male,IT,Software Engineer,14415,12,Very High,Yes,Yes,Needs Improvement,Bachelor's
+EMP01016,26,Non-Binary,Customer Support,Support Agent,25526,5,Very High,,No,Meets Expectations,PhD
+EMP00351,20,Male,Sales,Sales Manager,18026,1,Low,Yes,No,Meets Expectations,Master's
+EMP01357,40,Male,Sales,Sales Representative,20073,7,Medium,No,No,Needs Improvement,Master's
+EMP01412,30,Male,Sales,Sales Manager,13068,4,Low,No,Yes,Meets Expectations,Master's
+EMP01474,38,Male,Operations,Unknown,39505,11,Low,No,Yes,Needs Improvement,PhD
+EMP00848,28,Female,Finance,Accountant,40000,9,High,No,No,Needs Improvement,PhD
+EMP00808,25,Non-Binary,Sales,Sales Representative,15465,8,Very High,No,Yes,Needs Improvement,PhD
+EMP01451,39,Non-Binary,IT,IT Support,21805,10,Low,No,No,Meets Expectations,Master's
+EMP00192,42,Female,Operations,Operations Analyst,22697,11,Low,No,No,Meets Expectations,Bachelor's
+EMP01050,38,Male,Sales,Sales Executive,26484,14,Low,Yes,Yes,Exceeds Expectations,PhD
+EMP01030,51,Non-Binary,Unknown,Support Agent,27945,29,High,No,No,Needs Improvement,Bachelor's
+EMP00955,41,Male,Research & Development,Research Scientist,23852,3,High,No,No,Exceeds Expectations,Master's
+EMP00849,29,Male,Operations,Operations Analyst,32144,4,Medium,No,No,Meets Expectations,High School
+EMP00028,32,Female,Customer Support,Support Manager,32084,11,Medium,No,No,Meets Expectations,PhD
+EMP00771,35,Male,Operations,Operations Manager,22436,17,Very High,No,Yes,Needs Improvement,High School
+EMP00925,32,Non-Binary,IT,Software Engineer,6893,9,Medium,Yes,No,Exceeds Expectations,High School
+EMP01447,24,Female,Operations,Operations Manager,26754,1,Medium,No,Yes,Needs Improvement,PhD
+EMP00174,36,Female,Research & Development,Research Scientist,24564,5,High,No,No,Needs Improvement,Master's
+EMP00333,29,Male,Research & Development,Lab Technician,999999,12,Very High,No,No,Meets Expectations,Bachelor's
+EMP00858,24,Male,Sales,Sales Representative,6467,4,Medium,No,Yes,Needs Improvement,PhD
+EMP00930,32,Non-Binary,Human Resources,Recruiter,14868,3,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00480,37,Female,Sales,Sales Manager,36714,20,Low,No,No,Meets Expectations,PhD
+EMP00676,31,Non-Binary,Customer Support,Team Lead,32827,10,High,No,No,Needs Improvement,High School
+EMP00270,41,Female,Research & Development,Lab Technician,40000,14,Medium,No,No,Meets Expectations,Master's
+EMP00617,35,Female,Operations,Operations Manager,40000,23,High,Yes,Yes,Needs Improvement,Master's
+EMP00728,42,Female,Sales,Sales Representative,40000,7,Very High,No,No,Needs Improvement,High School
+EMP01325,23,Female,Customer Support,Team Lead,21847,0,Very High,No,No,Exceeds Expectations,PhD
+EMP00135,36,Male,Operations,Coordinator,23966,7,Very High,No,Yes,Needs Improvement,High School
+EMP00187,35,Non-Binary,Operations,Coordinator,23702,0,Very High,Yes,No,Meets Expectations,Bachelor's
+EMP01108,42,Male,Sales,Sales Manager,40000,3,Very High,No,No,Meets Expectations,PhD
+EMP01499,22,Non-Binary,Operations,Coordinator,37801,4,High,No,No,Meets Expectations,Master's
+EMP00998,37,Non-Binary,Sales,Sales Manager,10198,15,High,No,No,Exceeds Expectations,High School
+EMP01199,40,Non-Binary,Finance,Finance Manager,33263,17,Low,No,No,Exceeds Expectations,PhD
+EMP00252,46,Non-Binary,Finance,Finance Manager,40000,11,Very High,No,No,Meets Expectations,High School
+EMP01340,30,Non-Binary,Finance,Accountant,11537,1,Low,No,Yes,Meets Expectations,Master's
+EMP00450,24,Male,IT,Software Engineer,18949,5,High,No,Yes,Exceeds Expectations,Master's
+EMP00124,28,Male,Operations,Operations Analyst,14497,11,Medium,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00672,40,Female,Sales,Sales Manager,20031,19,Medium,No,Yes,Meets Expectations,High School
+EMP00768,18,Male,IT,Software Engineer,13225,1,Very High,No,No,Meets Expectations,High School
+EMP00639,31,Female,Unknown,Data Analyst,23640,4,High,No,No,Exceeds Expectations,Master's
+EMP00163,26,Male,IT,IT Support,40000,2,High,Yes,No,Meets Expectations,High School
+EMP01200,27,Male,Finance,Finance Manager,13364,45,High,No,Yes,Meets Expectations,Bachelor's
+EMP00557,41,Female,Operations,Operations Analyst,39396,0,Very High,No,No,Needs Improvement,Bachelor's
+EMP00176,37,Male,Research & Development,Research Scientist,12924,14,High,,Yes,Exceeds Expectations,High School
+EMP00044,24,Female,Research & Development,Research Scientist,18531,1,Low,Yes,No,Exceeds Expectations,Master's
+EMP01427,48,Non-Binary,Human Resources,Recruiter,26045,13,High,No,No,Needs Improvement,Bachelor's
+EMP01056,49,Female,IT,Data Analyst,36406,0,High,No,Yes,Needs Improvement,PhD
+EMP00799,30,Female,Human Resources,Recruiter,38427,7,High,No,No,Meets Expectations,High School
+EMP00952,28,Non-Binary,Research & Development,Research Director,40000,2,Low,,Yes,Exceeds Expectations,PhD
+EMP00815,40,Female,Human Resources,HR Manager,25018,0,Low,No,No,Meets Expectations,Bachelor's
+EMP00388,29,Male,Human Resources,Recruiter,16773,11,Very High,No,Yes,Needs Improvement,High School
+EMP00742,37,Non-Binary,IT,Data Analyst,40000,12,Low,Yes,Yes,Meets Expectations,PhD
+EMP01388,26,Female,Operations,Operations Manager,13108,0,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00608,31,Female,Sales,Sales Representative,14586,7,Low,No,Yes,Needs Improvement,Master's
+EMP00946,18,Male,Research & Development,Research Director,17466,1,Low,No,Yes,Needs Improvement,PhD
+EMP00984,49,Non-Binary,Human Resources,HR Manager,11593,5,Medium,No,No,Meets Expectations,High School
+EMP01026,39,Female,Research & Development,Research Director,16496,22,Low,No,Yes,Exceeds Expectations,Master's
+EMP01312,31,Male,Research & Development,Research Scientist,26509,11,Medium,No,Yes,Exceeds Expectations,Master's
+EMP00426,35,Female,Research & Development,Research Director,22588,3,Low,No,Yes,Meets Expectations,Master's
+EMP00318,50,Male,Customer Support,Support Agent,25928,14,Low,No,No,Meets Expectations,Bachelor's
+EMP00168,35,Female,Operations,Operations Analyst,35148,15,Low,No,No,Needs Improvement,Bachelor's
+EMP00605,35,Non-Binary,Finance,Accountant,19453,0,Low,No,No,Exceeds Expectations,Bachelor's
+EMP01356,36,Non-Binary,Finance,Finance Manager,33274,11,Low,Yes,Yes,Exceeds Expectations,PhD
+EMP00589,39,Non-Binary,Customer Support,Support Agent,40000,4,Very High,No,No,Meets Expectations,Master's
+EMP01218,30,Non-Binary,Human Resources,HR Executive,18153,0,Very High,No,No,Needs Improvement,Master's
+EMP01027,30,Non-Binary,Human Resources,HR Manager,18497,2,Low,No,Yes,Meets Expectations,Bachelor's
+EMP00520,33,Male,IT,Data Analyst,18544,7,High,No,Yes,Exceeds Expectations,PhD
+EMP00394,27,Female,Customer Support,Support Agent,35523,3,Low,No,Yes,Needs Improvement,High School
+EMP01046,46,Non-Binary,Human Resources,Recruiter,18556,11,Low,No,Yes,Exceeds Expectations,High School
+EMP00674,26,Male,Finance,Finance Manager,40000,8,Low,No,No,Exceeds Expectations,High School
+EMP01347,34,Non-Binary,Sales,Sales Manager,13930,4,Very High,No,No,Meets Expectations,PhD
+EMP00675,37,Male,Human Resources,HR Manager,22179,20,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00199,28,Non-Binary,Customer Support,Unknown,29410,7,High,No,No,Meets Expectations,Master's
+EMP01322,44,Non-Binary,Human Resources,HR Executive,26484,2,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP01395,30,Non-Binary,Unknown,Support Manager,12424,8,High,No,No,Needs Improvement,High School
+EMP01105,23,Non-Binary,IT,IT Support,24010,1,Low,Yes,No,Meets Expectations,Master's
+EMP00115,41,Female,Customer Support,Team Lead,19451,16,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00173,41,Non-Binary,Research & Development,Lab Technician,26484,7,High,No,Yes,Needs Improvement,Master's
+EMP01214,33,Male,Human Resources,HR Executive,30635,12,Low,No,No,Meets Expectations,Bachelor's
+EMP00311,20,Male,Operations,Coordinator,40000,7,High,No,Yes,Needs Improvement,PhD
+EMP01061,41,Non-Binary,Customer Support,Team Lead,26458,11,Very High,No,No,Exceeds Expectations,PhD
+EMP00443,25,Female,Operations,Operations Analyst,40000,5,Very High,No,No,Exceeds Expectations,PhD
+EMP01476,44,Non-Binary,Operations,Operations Manager,26597,1,High,No,No,Exceeds Expectations,High School
+EMP01475,32,Non-Binary,Operations,Coordinator,35730,1,Low,No,Yes,Exceeds Expectations,Master's
+EMP00243,40,Female,Operations,Coordinator,31318,10,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP00834,52,Non-Binary,Sales,Sales Executive,27642,5,High,No,No,Meets Expectations,Bachelor's
+EMP00427,37,Female,Operations,Operations Manager,38048,4,High,No,No,Exceeds Expectations,Master's
+EMP00219,41,Female,Finance,Financial Analyst,40000,22,High,No,Yes,Meets Expectations,High School
+EMP01455,28,Male,IT,IT Support,28798,1,Low,Yes,Yes,Exceeds Expectations,Master's
+EMP00083,21,Male,Research & Development,Research Director,26670,0,High,No,No,Meets Expectations,Bachelor's
+EMP01413,26,Non-Binary,Research & Development,Lab Technician,33636,9,Very High,No,No,Exceeds Expectations,PhD
+EMP01152,33,Female,Research & Development,Research Scientist,14110,3,Medium,Yes,Yes,Needs Improvement,PhD
+EMP01466,34,Male,Human Resources,Recruiter,19494,14,Low,Yes,Yes,Meets Expectations,Bachelor's
+EMP00329,32,Female,Human Resources,Recruiter,18551,8,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00969,38,Non-Binary,Research & Development,Research Scientist,15300,21,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00275,27,Non-Binary,Sales,Sales Representative,12555,7,Very High,No,No,Needs Improvement,Master's
+EMP00773,50,Non-Binary,Customer Support,Support Agent,40000,28,Low,No,Yes,Meets Expectations,High School
+EMP01138,31,Female,IT,IT Support,11241,6,Low,No,No,Meets Expectations,Master's
+EMP00496,38,Female,Finance,Financial Analyst,35130,18,Medium,No,No,Needs Improvement,Bachelor's
+EMP01351,32,Non-Binary,IT,Software Engineer,21903,5,Medium,No,No,Exceeds Expectations,PhD
+EMP00798,35,Male,Customer Support,Support Manager,29669,7,Very High,No,Yes,Meets Expectations,Master's
+EMP00262,39,Male,Research & Development,Lab Technician,27264,16,Low,Yes,No,Meets Expectations,Bachelor's
+EMP00841,38,Female,Research & Development,Lab Technician,40000,7,Medium,No,Yes,Needs Improvement,High School
+EMP00129,26,Female,Human Resources,HR Manager,16438,5,Low,No,Yes,Exceeds Expectations,PhD
+EMP00856,44,Male,IT,Data Analyst,16110,11,Medium,No,Yes,Meets Expectations,Master's
+EMP00130,30,Female,Finance,Finance Manager,13470,6,Low,No,Yes,Exceeds Expectations,PhD
+EMP01076,41,Male,IT,Data Analyst,40000,1,Low,No,Yes,Needs Improvement,High School
+EMP00161,32,Non-Binary,IT,IT Support,32311,40,Very High,No,Yes,Meets Expectations,PhD
+EMP01099,38,Female,Customer Support,Team Lead,36049,12,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00429,18,Non-Binary,Research & Development,Research Director,21133,0,High,No,No,Exceeds Expectations,Master's
+EMP00149,40,Female,IT,Software Engineer,40000,4,Very High,Yes,Yes,Exceeds Expectations,PhD
+EMP01080,37,Female,Operations,Operations Analyst,999999,2,Very High,No,No,Exceeds Expectations,PhD
+EMP00412,39,Non-Binary,Finance,Finance Manager,26484,12,Medium,No,No,Needs Improvement,Master's
+EMP00445,40,Non-Binary,IT,Software Engineer,18367,2,High,No,No,Needs Improvement,PhD
+EMP01363,41,Non-Binary,IT,Software Engineer,21735,16,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00987,32,Non-Binary,Finance,Accountant,26484,2,Low,No,Yes,Meets Expectations,Master's
+EMP00620,37,Male,Research & Development,Research Scientist,28648,3,Low,No,Yes,Exceeds Expectations,PhD
+EMP00607,37,Female,Customer Support,Team Lead,24997,10,Very High,No,No,Exceeds Expectations,PhD
+EMP00505,44,Non-Binary,Operations,Operations Analyst,10169,22,Unknown,No,Yes,Needs Improvement,Bachelor's
+EMP00125,38,Male,Finance,Finance Manager,40000,1,Medium,Yes,No,Needs Improvement,PhD
+EMP00326,37,Female,Customer Support,Support Manager,40000,5,Low,No,No,Meets Expectations,Master's
+EMP00477,19,Unknown,IT,Software Engineer,40000,2,Low,No,No,Needs Improvement,PhD
+EMP00003,31,Male,Customer Support,Support Agent,23191,9,Low,No,No,Exceeds Expectations,Master's
+EMP00045,38,Non-Binary,Sales,Sales Executive,13792,2,Very High,No,No,Meets Expectations,Bachelor's
+EMP01428,31,Non-Binary,Operations,Coordinator,26484,12,High,No,No,Meets Expectations,High School
+EMP00092,22,Non-Binary,IT,Data Analyst,22659,1,Very High,No,No,Exceeds Expectations,High School
+EMP00112,32,Female,Finance,Financial Analyst,14613,2,Very High,No,No,Meets Expectations,PhD
+EMP00475,30,Female,Research & Development,Research Director,10242,12,High,No,No,Exceeds Expectations,PhD
+EMP00611,39,Unknown,Customer Support,Team Lead,26484,12,High,No,No,Exceeds Expectations,PhD
+EMP00814,37,Non-Binary,Operations,Operations Analyst,23709,20,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00128,33,Female,Operations,Operations Analyst,22831,12,High,No,Yes,Meets Expectations,Bachelor's
+EMP01285,50,Female,Research & Development,Research Director,22794,17,Low,No,Yes,Needs Improvement,Unknown
+EMP00758,23,Non-Binary,IT,Software Engineer,28792,0,Medium,No,No,Needs Improvement,PhD
+EMP00524,24,Male,Finance,Finance Manager,23677,4,High,No,No,Needs Improvement,High School
+EMP01014,39,Male,Finance,Accountant,34772,9,Unknown,No,Yes,Needs Improvement,Master's
+EMP00325,33,Non-Binary,Customer Support,Unknown,26935,9,High,No,Yes,Needs Improvement,PhD
+EMP00194,29,Male,Human Resources,Recruiter,40000,5,Very High,No,Yes,Meets Expectations,PhD
+EMP01096,32,Non-Binary,Human Resources,HR Manager,29417,12,Very High,No,No,Meets Expectations,Bachelor's
+EMP00874,27,Female,Customer Support,Support Manager,40000,7,Very High,No,No,Exceeds Expectations,High School
+EMP00719,35,Female,Operations,Operations Analyst,32623,10,Very High,No,Yes,Needs Improvement,High School
+EMP00850,39,Female,IT,IT Support,40000,14,Low,No,No,Needs Improvement,Master's
+EMP01399,45,Non-Binary,Operations,Operations Analyst,30618,28,Low,No,No,Needs Improvement,Bachelor's
+EMP00257,18,Female,Finance,Accountant,24013,0,Very High,Yes,No,Meets Expectations,Master's
+EMP00997,32,Female,Operations,Operations Manager,40000,5,Low,No,No,Exceeds Expectations,Bachelor's
+EMP00593,23,Male,IT,IT Support,27309,5,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00555,43,Male,Sales,Sales Executive,15425,25,Low,No,No,Needs Improvement,Master's
+EMP01276,30,Female,Sales,Sales Executive,35344,9,High,Yes,No,Meets Expectations,High School
+EMP00647,36,Male,Operations,Operations Analyst,37626,1,High,No,No,Exceeds Expectations,Master's
+EMP00789,50,Male,Research & Development,Lab Technician,19202,3,Low,Yes,No,Needs Improvement,Bachelor's
+EMP00616,34,Male,Sales,Sales Representative,27436,9,Very High,No,No,Meets Expectations,PhD
+EMP01089,46,Female,Finance,Accountant,35811,23,Very High,No,Yes,Needs Improvement,PhD
+EMP00507,37,Male,Research & Development,Research Scientist,12117,2,High,No,Yes,Needs Improvement,High School
+EMP00007,24,Female,IT,IT Support,14975,5,Very High,No,No,Meets Expectations,Master's
+EMP00693,20,Non-Binary,Human Resources,HR Executive,27636,0,Very High,No,Yes,Meets Expectations,Master's
+EMP00200,33,Male,Operations,Operations Manager,40000,4,Low,No,No,Meets Expectations,High School
+EMP00340,27,Female,Research & Development,Research Director,40000,8,High,No,Yes,Meets Expectations,PhD
+EMP01140,35,Female,Customer Support,Team Lead,18576,17,High,No,No,Needs Improvement,Master's
+EMP01282,49,Female,Customer Support,Support Agent,38003,21,High,No,No,Exceeds Expectations,Master's
+EMP01025,45,Male,Sales,Sales Representative,24566,5,Low,No,Yes,Meets Expectations,Master's
+EMP00016,30,Female,IT,Software Engineer,21856,12,Very High,No,No,Meets Expectations,High School
+EMP00392,39,Male,Sales,Sales Executive,7510,21,High,No,Yes,Meets Expectations,High School
+EMP01162,27,Male,Human Resources,HR Manager,26885,6,Medium,No,Yes,Meets Expectations,High School
+EMP01173,38,Female,Operations,Coordinator,13155,12,Very High,,Yes,Meets Expectations,High School
+EMP00184,32,Female,Customer Support,Support Agent,40000,3,Very High,No,Yes,Needs Improvement,Master's
+EMP01043,39,Male,Customer Support,Support Agent,22649,17,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00091,47,Female,Human Resources,HR Manager,36729,13,High,No,Yes,Needs Improvement,Bachelor's
+EMP00810,36,Male,Sales,Sales Representative,16722,13,Very High,No,No,Needs Improvement,PhD
+EMP00406,26,Non-Binary,Research & Development,Lab Technician,29024,3,Low,No,Yes,Exceeds Expectations,High School
+EMP00832,41,Male,Research & Development,Research Scientist,17475,13,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00341,18,Male,Human Resources,HR Executive,13389,0,Medium,No,No,Needs Improvement,High School
+EMP01084,43,Male,Operations,Operations Analyst,21350,6,Very High,No,No,Meets Expectations,Master's
+EMP00080,45,Male,Sales,Sales Representative,26484,15,Low,Yes,Yes,Meets Expectations,Master's
+EMP00050,33,Male,Operations,Operations Analyst,15524,9,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00175,28,Female,IT,IT Support,22918,1,Low,No,Yes,Meets Expectations,Bachelor's
+EMP01414,49,Non-Binary,Customer Support,Team Lead,16731,24,High,No,Yes,Exceeds Expectations,Master's
+EMP01037,41,Female,Sales,Sales Executive,16634,21,High,No,Yes,Exceeds Expectations,High School
+EMP00280,24,Male,Human Resources,HR Executive,11382,5,High,No,No,Meets Expectations,Master's
+EMP00046,46,Non-Binary,Unknown,Support Agent,40000,29,Very High,No,Yes,Exceeds Expectations,High School
+EMP00899,34,Female,Finance,Financial Analyst,12273,9,High,No,No,Meets Expectations,Bachelor's
+EMP00800,43,Unknown,Research & Development,Lab Technician,27879,4,High,No,No,Meets Expectations,Bachelor's
+EMP01179,47,Male,Human Resources,HR Executive,21046,15,Medium,No,Yes,Meets Expectations,Master's
+EMP00234,44,Male,Customer Support,Support Agent,28269,17,High,Yes,No,Needs Improvement,High School
+EMP00870,27,Female,Research & Development,Lab Technician,12366,5,High,No,No,Needs Improvement,PhD
+EMP01015,34,Female,IT,Data Analyst,40000,15,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP00119,49,Female,Sales,Sales Executive,26484,8,High,No,No,Needs Improvement,High School
+EMP00634,41,Female,Sales,Sales Representative,27690,15,Very High,No,Yes,Meets Expectations,High School
+EMP00935,35,Non-Binary,Finance,Financial Analyst,20367,7,High,Yes,No,Meets Expectations,Bachelor's
+EMP00216,18,Non-Binary,Research & Development,Research Scientist,31705,1,Low,Yes,Yes,Needs Improvement,PhD
+EMP00459,21,Male,Operations,Operations Manager,26484,0,Very High,No,No,Needs Improvement,PhD
+EMP01116,23,Female,Sales,Sales Manager,31846,4,High,No,Yes,Needs Improvement,Master's
+EMP00019,48,Female,Operations,Operations Analyst,14282,1,High,No,No,Exceeds Expectations,Bachelor's
+EMP01423,39,Non-Binary,Sales,Sales Representative,16269,7,High,No,No,Exceeds Expectations,High School
+EMP00585,23,Female,Human Resources,HR Manager,23499,6,High,No,No,Exceeds Expectations,Master's
+EMP01323,32,Male,Finance,Finance Manager,40000,11,Very High,No,Yes,Unknown,Master's
+EMP00929,49,Non-Binary,Research & Development,Research Scientist,40000,23,Low,No,Yes,Needs Improvement,PhD
+EMP01128,34,Female,Research & Development,Research Scientist,16725,8,Very High,No,No,Meets Expectations,High School
+EMP01102,36,Non-Binary,Research & Development,Lab Technician,26731,13,Low,No,No,Needs Improvement,Bachelor's
+EMP00747,38,Female,Finance,Accountant,21139,14,Low,No,No,Needs Improvement,High School
+EMP00868,34,Female,IT,Data Analyst,38290,2,Low,Yes,Yes,Needs Improvement,High School
+EMP00851,44,Female,Operations,Operations Analyst,22169,10,High,No,No,Exceeds Expectations,Master's
+EMP00536,26,Female,Finance,Accountant,33609,2,Low,No,Yes,Meets Expectations,High School
+EMP00553,34,Male,Finance,Finance Manager,40000,0,Low,No,Yes,Exceeds Expectations,High School
+EMP00017,29,Female,Research & Development,Lab Technician,24836,7,Very High, No ,Yes,Needs Improvement,PhD
+EMP00748,46,Male,Research & Development,Research Scientist,28186,19,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00711,31,Male,Sales,Sales Manager,32609,2,Medium,No,Yes,Meets Expectations,Master's
+EMP01299,24,Male,Finance,Finance Manager,15463,1,High,No,No,Exceeds Expectations,PhD
+EMP00831,36,Male,Customer Support,Support Agent,33425,19,Very High,Yes,Yes,Exceeds Expectations,High School
+EMP00209,18,Male,IT,Software Engineer,21866,0,Low,Yes,Yes,Needs Improvement,Master's
+EMP01149,38,Non-Binary,Customer Support,Team Lead,31033,7,Very High,No,No,Needs Improvement,High School
+EMP00530,43,Non-Binary,Unknown,Accountant,38738,5,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00506,33,Male,Operations,Coordinator,22197,7,High,No,Yes,Meets Expectations,Unknown
+EMP01047,25,Male,Human Resources,HR Executive,11713,6,Low,No,No,Needs Improvement,Master's
+EMP00473,33,Non-Binary,Human Resources,Unknown,28432,0,High,Yes,Yes,Meets Expectations,Bachelor's
+EMP00001,31,Non-Binary,Sales,Sales Manager,12753,13,High,No,Yes,Needs Improvement,PhD
+EMP00447,31,Female,Customer Support,Support Agent,9667,8,Low,No,Yes,Exceeds Expectations,PhD
+EMP00259,35,Non-Binary,Sales,Sales Executive,17868,8,Medium,No,Yes,Meets Expectations,High School
+EMP01230,28,Non-Binary,Research & Development,Research Director,26484,3,Medium,No,Yes,Meets Expectations,PhD
+EMP01479,43,Female,Sales,Sales Representative,40000,15,Low,No,Yes,Exceeds Expectations,Master's
+EMP00995,43,Non-Binary,Sales,Sales Executive,31644,12,Medium,No,Yes,Needs Improvement,Master's
+EMP00716,41,Male,Research & Development,Lab Technician,13506,2,Very High,Yes,Yes,Needs Improvement,Master's
+EMP01403,42,Non-Binary,Sales,Sales Executive,26484,25,Very High,No,No,Meets Expectations,High School
+EMP00152,29,Male,Operations,Operations Analyst,17914,3,Very High,No,Yes,Meets Expectations,PhD
+EMP01443,42,Non-Binary,Operations,Operations Manager,31076,10,Very High,No,Yes,Needs Improvement,Master's
+EMP00905,23,Female,IT,IT Support,40000,6,Low,No,No,Meets Expectations,High School
+EMP00242,44,Non-Binary,Human Resources,HR Executive,25531,24,Low,No,Yes,Needs Improvement,PhD
+EMP00395,22,Male,Operations,Coordinator,17907,0,Very High,,Yes,Exceeds Expectations,Master's
+EMP01161,41,Female,Customer Support,Team Lead,40000,24,High,No,No,Meets Expectations,Master's
+EMP00948,35,Non-Binary,Human Resources,Recruiter,30828,0,High,No,No,Meets Expectations,Master's
+EMP00165,40,Male,IT,IT Support,20834,20,High,No,No,Needs Improvement,Bachelor's
+EMP00160,43,Non-Binary,Finance,Financial Analyst,31985,2,High,No,Yes,Exceeds Expectations,Master's
+EMP00075,26,Non-Binary,Research & Development,Research Director,18760,0,High,No,No,Meets Expectations,Master's
+EMP01459,30,Female,Research & Development,Research Scientist,40000,11,Low,Yes,No,Meets Expectations,Master's
+EMP00690,39,Female,Customer Support,Support Manager,16412,2,Low,No,No,Exceeds Expectations,PhD
+EMP00770,36,Female,Finance,Financial Analyst,28853,13,Medium,No,Yes,Needs Improvement,High School
+EMP01004,30,Male,Human Resources,HR Executive,33883,5,Very High,No,No,Meets Expectations,PhD
+EMP01494,39,Male,Operations,Coordinator,17508,2,Medium,No,No,Needs Improvement,Master's
+EMP01039,39,Male,Operations,Coordinator,40000,21,Very High,No,No,Exceeds Expectations,PhD
+EMP00982,41,Non-Binary,Operations,Operations Manager,11337,22,Very High,No,No,Meets Expectations,Master's
+EMP01259,33,Male,Finance,Finance Manager,40000,6,High,No,Unknown,Needs Improvement,Bachelor's
+EMP00491,38,Male,Operations,Operations Analyst,22462,12,Very High,No,Yes,Meets Expectations,PhD
+EMP00843,44,Female,Finance,Accountant,38780,21,Medium,No,No,Exceeds Expectations,High School
+EMP00263,32,Female,Research & Development,Lab Technician,24001,15,Medium,No,No,Meets Expectations,Bachelor's
+EMP00355,34,Male,Sales,Sales Manager,30496,10,Medium,No,No,Meets Expectations,Master's
+EMP00879,28,Female,Customer Support,Support Manager,31759,6,Low,No,No,Exceeds Expectations,Master's
+EMP01429,41,Male,Operations,Operations Analyst,23736,11,Very High,No,No,Meets Expectations,Bachelor's
+EMP01131,18,Male,Sales,Sales Representative,7341,1,Low,No,No,Needs Improvement,High School
+EMP01338,40,Female,Research & Development,Research Director,26086,8,Low,No,Yes,Meets Expectations,High School
+EMP01383,45,Non-Binary,IT,IT Support,18530,28,Low,No,Yes,Exceeds Expectations,High School
+EMP00823,34,Male,Customer Support,Support Manager,24005,5,Medium,,No,Needs Improvement,PhD
+EMP00759,24,Male,Human Resources,Recruiter,18625,0,Low,No,No,Exceeds Expectations,Bachelor's
+EMP00181,21,Unknown,IT,Data Analyst,11042,3,Low,Yes,No,Exceeds Expectations,High School
+EMP00797,41,Male,Customer Support,Support Agent,19089,23,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP01211,35,Male,Research & Development,Research Scientist,31694,1,High,No,No,Needs Improvement,Bachelor's
+EMP01183,36,Non-Binary,Sales,Sales Manager,24874,14,Low,Yes,Yes,Needs Improvement,Master's
+EMP01371,43,Female,Customer Support,Team Lead,40000,5,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP00053,34,Non-Binary,Research & Development,Lab Technician,27545,10,Medium,No,Yes,Meets Expectations,PhD
+EMP00531,36,Non-Binary,Research & Development,Lab Technician,31984,10,Very High,No,No,Exceeds Expectations,Master's
+EMP00703,19,Non-Binary,Human Resources,Recruiter,25993,1,High,No,Yes,Meets Expectations,High School
+EMP01278,34,Female,Operations,Coordinator,33421,2,Low,No,No,Needs Improvement,Master's
+EMP00873,31,Male,Sales,Sales Manager,40000,2,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00990,36,Non-Binary,Unknown,HR Executive,22028,4,High,No,Yes,Meets Expectations,Bachelor's
+EMP00369,42,Non-Binary,Human Resources,Recruiter,31597,23,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP00266,41,Female,Customer Support,Support Agent,15245,1,Medium,Yes,No,Exceeds Expectations,PhD
+EMP00052,36,Non-Binary,Human Resources,HR Manager,40000,5,Very High,No,No,Exceeds Expectations,Master's
+EMP01346,42,Male,Operations,Operations Analyst,40000,7,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP01375,30,Non-Binary,Research & Development,Research Scientist,31319,11,High,No,Yes,Needs Improvement,Bachelor's
+EMP00519,18,Female,Customer Support,Team Lead,40000,1,High,No,No,Meets Expectations,High School
+EMP00516,50,Non-Binary,Finance,Financial Analyst,16352,7,Low,Yes,No,Meets Expectations,Master's
+EMP01473,35,Female,Sales,Sales Representative,11570,11,Medium,Yes,Yes,Meets Expectations,Master's
+EMP00448,53,Female,Customer Support,Support Agent,34814,12,Low,No,No,Exceeds Expectations,PhD
+EMP00330,47,Female,Sales,Sales Representative,40000,16,Medium,No,No,Exceeds Expectations,High School
+EMP00434,43,Male,Human Resources,Recruiter,37616,12,High,No,Yes,Exceeds Expectations,PhD
+EMP00654,35,Non-Binary,Customer Support,Support Manager,26152,7,Low,No,Yes,Exceeds Expectations,PhD
+EMP01220,52,Non-Binary,Finance,Accountant,28192,3,High,No,Yes,Exceeds Expectations,PhD
+EMP00006,53,Female,Operations,Operations Manager,10506,26,High, No ,No,Meets Expectations,High School
+EMP00980,51,Non-Binary,Research & Development,Research Director,16190,19,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP00892,30,Female,Operations,Coordinator,39501,10,High,No,No,Needs Improvement,Bachelor's
+EMP01166,22,Male,Operations,Operations Analyst,26938,3,Medium,No,No,Exceeds Expectations,Master's
+EMP00032,42,Male,Sales,Sales Manager,29027,23,Low,No,Yes,Needs Improvement,Master's
+EMP00552,27,Non-Binary,Customer Support,Support Manager,16382,2,Very High,No,No,Needs Improvement,Master's
+EMP01441,45,Non-Binary,IT,IT Support,18593,13,Medium,No,No,Needs Improvement,Master's
+EMP00382,33,Female,Research & Development,Research Director,37907,13,High,No,Yes,Meets Expectations,Bachelor's
+EMP01051,40,Non-Binary,Operations,Operations Manager,24538,6,Low,Yes,No,Exceeds Expectations,PhD
+EMP00751,33,Female,IT,Data Analyst,40000,3,Medium,Yes,No,Needs Improvement,High School
+EMP01321,36,Non-Binary,Sales,Sales Executive,22724,1,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00371,31,Male,Research & Development,Lab Technician,40000,13,Medium,No,Yes,Needs Improvement,Master's
+EMP00518,48,Male,IT,Data Analyst,17650,18,High,No,No,Needs Improvement,PhD
+EMP00760,45,Non-Binary,Sales,Sales Representative,15196,21,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP01454,29,Female,Finance,Financial Analyst,38064,6,Medium,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00030,39,Male,IT,IT Support,26832,16,Very High,No,No,Exceeds Expectations,PhD
+EMP01343,32,Male,Sales,Sales Representative,17713,0,Very High,Yes,No,Meets Expectations,Bachelor's
+EMP01130,34,Male,Operations,Operations Analyst,40000,5,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00737,35,Non-Binary,Finance,Financial Analyst,40000,4,Low,Yes,No,Meets Expectations,Master's
+EMP00338,28,Non-Binary,Customer Support,Support Agent,24831,0,Very High,No,No,Needs Improvement,Master's
+EMP00109,50,Non-Binary,Operations,Operations Analyst,22846,27,Very High,No,No,Meets Expectations,High School
+EMP01077,23,Non-Binary,Customer Support,Support Manager,40000,2,Medium,Yes,Yes,Needs Improvement,PhD
+EMP00526,43,Non-Binary,Research & Development,Research Director,23597,1,Medium,No,No,Meets Expectations,PhD
+EMP01426,33,Female,Operations,Operations Manager,24746,1,Very High,No,No,Meets Expectations,High School
+EMP00852,54,Male,Human Resources,HR Manager,38924,18,High,No,Yes,Meets Expectations,Bachelor's
+EMP01031,38,Female,Human Resources,Recruiter,40000,7,Very High,No,No,Needs Improvement,PhD
+EMP01264,31,Female,IT,Data Analyst,21901,3,Low,Yes,No,Needs Improvement,PhD
+EMP01385,44,Non-Binary,Sales,Sales Representative,40000,8,Very High,Yes,Yes,Needs Improvement,Bachelor's
+EMP00436,18,Male,Human Resources,Recruiter,13409,0,Low,Yes,Yes,Meets Expectations,PhD
+EMP00343,32,Male,Research & Development,Lab Technician,35229,11,Medium,No,No,Needs Improvement,PhD
+EMP01465,31,Non-Binary,Customer Support,Support Manager,37463,6,Very High,No,Yes,Meets Expectations,High School
+EMP00204,32,Male,Human Resources,HR Executive,16084,15,High,No,Yes,Exceeds Expectations,Master's
+EMP01273,46,Female,Sales,Sales Executive,19806,20,Very High,No,No,Needs Improvement,High School
+EMP00968,24,Non-Binary,Research & Development,Lab Technician,40000,7,Low,Yes,Yes,Needs Improvement,High School
+EMP00144,31,Female,IT,Software Engineer,40000,13,High,No,No,Exceeds Expectations,High School
+EMP00188,27,Non-Binary,Finance,Finance Manager,40000,7,High,No,No,Exceeds Expectations,High School
+EMP00626,30,Non-Binary,Research & Development,Research Director,26484,2,Low,No,Yes,Needs Improvement,PhD
+EMP00581,29,Female,Research & Development,Research Director,26206,7,High,No,No,Exceeds Expectations,Master's
+EMP00986,29,Male,Customer Support,Team Lead,17068,2,Low,No,Yes,Needs Improvement,Master's
+EMP01368,37,Female,Sales,Sales Executive,16140,11,Very High,Yes,No,Exceeds Expectations,High School
+EMP00226,36,Non-Binary,Sales,Sales Manager,24435,8,Low, No ,No,Needs Improvement,Master's
+EMP00595,38,Male,Finance,Accountant,26484,8,High,No,No,Needs Improvement,Bachelor's
+EMP00975,40,Female,IT,IT Support,40000,10,Medium,Yes,No,Meets Expectations,Master's
+EMP00024,39,Male,Human Resources,HR Manager,22534,8,High,No,No,Meets Expectations,Bachelor's
+EMP00853,50,Non-Binary,Customer Support,Support Manager,15582,15,High,No,No,Exceeds Expectations,Bachelor's
+EMP00956,26,Female,IT,Software Engineer,20107,2,Very High,No,Yes,Needs Improvement,PhD
+EMP00238,51,Male,Customer Support,Team Lead,34422,30,Low,Yes,No,Needs Improvement,High School
+EMP00254,43,Female,IT,IT Support,24856,1,Medium,No,Yes,Needs Improvement,PhD
+EMP00328,44,Male,Customer Support,Support Agent,23383,22,Low,Yes,No,Meets Expectations,Master's
+EMP00169,25,Male,IT,IT Support,28310,3,Low,No,No,Needs Improvement,High School
+EMP00132,41,Male,Human Resources,Recruiter,17557,14,Low,Yes,Yes,Meets Expectations,High School
+EMP01262,47,Male,Sales,Sales Representative,33482,28,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP01223,27,Female,Operations,Operations Analyst,26854,9,High,Yes,Yes,Meets Expectations,High School
+EMP01164,25,Non-Binary,Customer Support,Support Manager,17763,3,Low,No,No,Exceeds Expectations,Bachelor's
+EMP00591,18,Male,IT,Software Engineer,12162,1,Low,No,No,Needs Improvement,PhD
+EMP00977,33,Female,IT,Data Analyst,31946,5,Medium,No,No,Exceeds Expectations,Master's
+EMP00659,44,Male,Finance,Finance Manager,28265,14,Low,No,Yes,Needs Improvement,Master's
+EMP00221,28,Non-Binary,Research & Development,Research Director,29111,7,High,Yes,No,Needs Improvement,PhD
+EMP00111,22,Male,Finance,Finance Manager,29099,5,Very High,Yes,Yes,Meets Expectations,High School
+EMP01181,54,Male,Customer Support,Support Manager,40000,10,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00218,41,Female,Human Resources,Recruiter,34287,1,Very High,No,No,Meets Expectations,Master's
+EMP01202,33,Female,Operations,Operations Analyst,34514,7,Very High,No,Yes,Exceeds Expectations,High School
+EMP00802,30,Male,Customer Support,Support Manager,24140,10,Low,Yes,No,Meets Expectations,Master's
+EMP00722,39,Female,Customer Support,Support Manager,40000,3,Very High,Yes,No,Meets Expectations,Master's
+EMP01472,32,Non-Binary,Finance,Accountant,15553,2,Medium,No,Yes,Meets Expectations,PhD
+EMP00301,20,Non-Binary,Operations,Operations Manager,10814,45,Very High,No,Yes,Meets Expectations,PhD
+EMP00407,29,Female,Customer Support,Team Lead,26484,3,Low,No,Yes,Exceeds Expectations,Master's
+EMP00500,29,Male,Finance,Accountant,15532,3,Medium,No,Yes,Needs Improvement,PhD
+EMP00838,28,Female,Research & Development,Research Director,40000,7,Medium,No,Yes,Needs Improvement,High School
+EMP00047,21,Male,Operations,Operations Analyst,33020,0,Very High,Yes,Yes,Meets Expectations,PhD
+EMP00222,18,Male,Operations,Coordinator,21870,7,Medium,Yes,No,Meets Expectations,Bachelor's
+EMP01032,41,Non-Binary,Sales,Sales Manager,26606,11,Very High,No,No,Meets Expectations,Master's
+EMP00862,27,Male,Research & Development,Lab Technician,23119,9,Medium,No,Yes,Exceeds Expectations,PhD
+EMP01450,31,Female,Sales,Sales Representative,31632,7,Very High,No,Yes,Needs Improvement,High School
+EMP00622,40,Non-Binary,IT,Data Analyst,18090,7,Medium,Yes,No,Needs Improvement,High School
+EMP00051,28,Female,Operations,Operations Manager,15810,6,High,No,No,Needs Improvement,Master's
+EMP00594,34,Non-Binary,Customer Support,Team Lead,15293,6,Very High,Yes,Yes,Meets Expectations,High School
+EMP00590,35,Male,Research & Development,Lab Technician,40000,12,Medium,No,No,Meets Expectations,PhD
+EMP01069,41,Male,IT,IT Support,30246,7,Medium,No,No,Meets Expectations,Master's
+EMP00215,43,Male,IT,IT Support,40000,5,Low,,Yes,Exceeds Expectations,Bachelor's
+EMP00793,34,Non-Binary,Finance,Financial Analyst,33829,4,Very High,No,Yes,Meets Expectations,Master's
+EMP01335,27,Male,Operations,Operations Analyst,39045,7,Very High,Yes,No,Needs Improvement,High School
+EMP01358,36,Male,Finance,Accountant,40000,11,High,Yes,Yes,Meets Expectations,Bachelor's
+EMP00166,42,Female,Research & Development,Research Scientist,30771,5,Low,Yes,No,Exceeds Expectations,PhD
+EMP00131,35,Female,Sales,Sales Executive,15915,0,Low,No,No,Needs Improvement,PhD
+EMP00492,45,Male,Customer Support,Team Lead,26975,11,High,Yes,Yes,Unknown,Master's
+EMP00670,26,Female,Finance,Financial Analyst,28608,9,Medium,No,No,Exceeds Expectations,PhD
+EMP01107,43,Female,Human Resources,HR Executive,28162,23,High,No,No,Needs Improvement,Bachelor's
+EMP00890,35,Male,Operations,Operations Manager,16407,7,High,No,No,Needs Improvement,PhD
+EMP00615,30,Non-Binary,Human Resources,Recruiter,35741,12,Very High,No,No,Exceeds Expectations,PhD
+EMP00691,22,Non-Binary,Customer Support,Team Lead,31561,5,Medium,,No,Meets Expectations,Master's
+EMP00926,41,Male,Customer Support,Support Manager,35414,9,Medium,No,Yes,Needs Improvement,PhD
+EMP00042,42,Non-Binary,Sales,Sales Representative,17227,7,High,No,Yes,Meets Expectations,PhD
+EMP00454,30,Female,IT,IT Support,38007,10,Medium,No,No,Needs Improvement,Bachelor's
+EMP00546,48,Female,IT,Software Engineer,31085,10,Low,No,No,Meets Expectations,Bachelor's
+EMP01290,26,Non-Binary,Human Resources,HR Executive,40000,1,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00906,28,Male,IT,Software Engineer,40000,1,Very High,No,No,Exceeds Expectations,PhD
+EMP01055,43,Male,Operations,Operations Analyst,29540,21,Very High,No,No,Needs Improvement,PhD
+EMP00731,38,Male,Sales,Sales Manager,30005,20,High,Yes,No,Exceeds Expectations,High School
+EMP00225,37,Male,Research & Development,Research Director,24806,18,Medium,No,No,Needs Improvement,PhD
+EMP00499,23,Female,IT,Data Analyst,8956,1,Medium,Yes,Yes,Meets Expectations,PhD
+EMP00801,44,Male,Research & Development,Research Scientist,23605,11,Low,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP01197,57,Male,Customer Support,Support Manager,9785,0,Low,Yes,No,Needs Improvement,PhD
+EMP00584,23,Non-Binary,Human Resources,HR Manager,21621,6,Low,No,Yes,Needs Improvement,Master's
+EMP00344,27,Male,Human Resources,Recruiter,19077,2,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00061,42,Female,Research & Development,Research Director,21374,17,Low,No,Yes,Meets Expectations,High School
+EMP01495,44,Male,IT,Software Engineer,20704,23,High,No,No,Meets Expectations,Master's
+EMP01328,42,Female,Sales,Sales Manager,24665,9,Very High,Yes,No,Needs Improvement,Master's
+EMP00941,34,Female,IT,IT Support,21307,8,Very High,No,No,Needs Improvement,High School
+EMP01337,35,Non-Binary,Human Resources,HR Manager,33988,5,Very High,No,No,Needs Improvement,High School
+EMP01295,47,Male,Human Resources,HR Executive,27638,8,Low,No,No,Exceeds Expectations,High School
+EMP00983,36,Non-Binary,Operations,Operations Manager,29572,19,Very High,No,No,Exceeds Expectations,Master's
+EMP00207,33,Male,Finance,Accountant,23116,5,Low,Yes,Yes,Meets Expectations,Bachelor's
+EMP00627,38,Female,Operations,Operations Analyst,28870,0,High,Yes,No,Needs Improvement,PhD
+EMP00077,45,Male,Customer Support,Support Manager,21069,8,Medium,No,No,Needs Improvement,Bachelor's
+EMP00909,18,Non-Binary,Operations,Coordinator,40000,1,Low,No,Yes,Exceeds Expectations,High School
+EMP00438,29,Female,Sales,Sales Manager,10977,11,Medium,No,No,Meets Expectations,High School
+EMP00158,35,Non-Binary,Human Resources,HR Manager,21493,0,Very High,Yes,No,Needs Improvement,Master's
+EMP00084,45,Male,Finance,Accountant,18275,12,Low,No,No,Meets Expectations,High School
+EMP00556,44,Non-Binary,IT,Data Analyst,40000,8,High,No,No,Meets Expectations,Master's
+EMP01350,33,Female,IT,IT Support,30593,13,Medium,Yes,Yes,Meets Expectations,High School
+EMP01267,51,Non-Binary,Human Resources,HR Executive,40000,5,High,No,Yes,Exceeds Expectations,PhD
+EMP01095,35,Non-Binary,Customer Support,Support Agent,8848,6,Medium,No,Yes,Needs Improvement,PhD
+EMP00699,30,Female,Operations,Coordinator,17467,11,High,Yes,Yes,Meets Expectations,Master's
+EMP00264,33,Female,Sales,Sales Manager,12609,5,High,No,Yes,Meets Expectations,Master's
+EMP01306,34,Female,Sales,Sales Representative,40000,4,Very High,No,Yes,Meets Expectations,High School
+EMP00532,43,Male,Customer Support,Team Lead,40000,24,Low,No,Yes,Needs Improvement,Master's
+EMP00324,35,Non-Binary,Sales,Sales Manager,25593,9,Low,No,No,Needs Improvement,PhD
+EMP01345,28,Female,Finance,Accountant,21344,0,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP01007,18,Non-Binary,Research & Development,Research Director,40000,0,High,Yes,Unknown,Meets Expectations,High School
+EMP00116,33,Female,Sales,Sales Manager,23651,16,High,No,No,Needs Improvement,Master's
+EMP00307,25,Male,Sales,Sales Representative,24843,3,Very High,No,Yes,Meets Expectations,Master's
+EMP01075,26,Female,Research & Development,Research Scientist,11708,3,Low,Yes,No,Needs Improvement,Bachelor's
+EMP00709,20,Non-Binary,Research & Development,Research Scientist,21918,3,Unknown,No,Yes,Meets Expectations,Master's
+EMP01236,37,Female,Finance,Finance Manager,29602,12,Very High,No,Yes,Needs Improvement,Master's
+EMP00792,28,Male,Research & Development,Research Scientist,19690,3,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00887,41,Male,Finance,Accountant,27211,8,Very High,No,No,Needs Improvement,High School
+EMP01163,50,Female,Finance,Finance Manager,26484,28,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP01251,52,Female,Operations,Coordinator,12460,19,Low,No,Yes,Exceeds Expectations,High School
+EMP00278,32,Non-Binary,Finance,Finance Manager,40000,3,High,No,No,Needs Improvement,High School
+EMP01467,24,Female,Customer Support,Team Lead,27059,1,High,Yes,Yes,Needs Improvement,PhD
+EMP01013,28,Male,Customer Support,Support Manager,21625,6,Low,No,Yes,Meets Expectations,High School
+EMP01411,23,Male,Human Resources,HR Executive,31956,5,Medium,No,No,Needs Improvement,High School
+EMP00055,38,Female,Research & Development,Research Director,37209,5,Low,Yes,No,Exceeds Expectations,High School
+EMP01091,36,Female,Research & Development,Research Scientist,26484,1,Medium,No,No,Meets Expectations,High School
+EMP00947,35,Non-Binary,Customer Support,Team Lead,30900,10,High,No,Yes,Needs Improvement,Bachelor's
+EMP00201,51,Female,Sales,Sales Manager,14106,23,High,Yes,Yes,Needs Improvement,Master's
+EMP01478,42,Female,Sales,Sales Manager,29555,11,Medium,No,No,Exceeds Expectations,PhD
+EMP00431,56,Male,IT,IT Support,4819,7,Unknown,No,Yes,Needs Improvement,High School
+EMP00511,35,Male,Finance,Financial Analyst,26034,0,Medium,No,No,Needs Improvement,High School
+EMP01151,46,Male,Human Resources,Recruiter,29510,29,Medium,No,Yes,Meets Expectations,Master's
+EMP01036,40,Female,IT,IT Support,22960,18,Medium,No,Yes,Needs Improvement,High School
+EMP00878,45,Non-Binary,IT,IT Support,16821,25,Low,No,Yes,Exceeds Expectations,High School
+EMP01457,28,Non-Binary,Finance,Financial Analyst,28752,10,Very High,No,No,Needs Improvement,Master's
+EMP00195,32,Female,Customer Support,Support Manager,36964,7,High,No,No,Meets Expectations,Master's
+EMP00056,32,Non-Binary,IT,Software Engineer,40000,2,Very High,No,Yes,Exceeds Expectations,High School
+EMP00185,39,Non-Binary,Research & Development,Lab Technician,13490,4,Low,Yes,No,Exceeds Expectations,PhD
+EMP01212,27,Non-Binary,Unknown,Software Engineer,40000,8,Medium,Yes,Yes,Needs Improvement,PhD
+EMP00740,31,Male,Human Resources,HR Executive,17581,5,Low,No,No,Exceeds Expectations,PhD
+EMP00483,45,Female,Research & Development,Research Director,22804,13,Low,No,Yes,Meets Expectations,PhD
+EMP01125,29,Female,Sales,Sales Manager,14173,7,High,No,No,Needs Improvement,High School
+EMP00295,29,Female,Sales,Sales Executive,40000,10,Very High,No,No,Needs Improvement,PhD
+EMP01407,40,Non-Binary,Finance,Financial Analyst,40000,17,Unknown,No,Yes,Needs Improvement,PhD
+EMP00784,28,Male,Human Resources,HR Manager,13739,8,Medium,No,No,Needs Improvement,PhD
+EMP00261,26,Female,IT,Software Engineer,34340,4,Medium,No,Yes,Meets Expectations,Master's
+EMP00444,42,Non-Binary,Human Resources,HR Manager,27089,25,Medium,No,Yes,Needs Improvement,PhD
+EMP01365,29,Female,Operations,Operations Manager,29089,4,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP01348,29,Male,Finance,Financial Analyst,15397,6,Very High,No,Yes,Needs Improvement,Master's
+EMP01435,35,Male,Finance,Finance Manager,18158,8,High,No,Yes,Needs Improvement,High School
+EMP01237,37,Non-Binary,Customer Support,Support Agent,28889,15,Medium,No,Unknown,Needs Improvement,PhD
+EMP00286,22,Male,IT,Software Engineer,38829,0,High,No,No,Exceeds Expectations,Master's
+EMP01389,32,Non-Binary,Sales,Sales Manager,17506,5,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00678,39,Male,Unknown,Recruiter,40000,20,Low,No,Yes,Exceeds Expectations,PhD
+EMP00928,34,Female,Sales,Sales Representative,16033,0,Very High,No,Yes,Exceeds Expectations,High School
+EMP00583,29,Non-Binary,Human Resources,HR Manager,17103,10,Low,No,Yes,Meets Expectations,Unknown
+EMP01401,29,Male,Sales,Sales Representative,33917,1,Low,No,Yes,Needs Improvement,High School
+EMP00656,44,Non-Binary,Research & Development,Research Director,27589,4,Medium,No,Yes,Meets Expectations,High School
+EMP00970,21,Non-Binary,Human Resources,Recruiter,22493,3,High,No,No,Meets Expectations,Bachelor's
+EMP01250,18,Male,Human Resources,HR Executive,9933,0,Medium,No,Yes,Needs Improvement,PhD
+EMP00310,26,Unknown,Sales,Sales Executive,40000,9,High,No,No,Meets Expectations,Master's
+EMP00586,37,Non-Binary,Sales,Sales Executive,38087,9,Very High,No,Unknown,Exceeds Expectations,Bachelor's
+EMP00508,28,Non-Binary,Sales,Sales Executive,40000,5,High,No,No,Needs Improvement,Bachelor's
+EMP01410,28,Non-Binary,Research & Development,Research Director,24101,2,Medium,Yes,Yes,Exceeds Expectations,Master's
+EMP00038,28,Female,Sales,Sales Executive,16051,6,Low,Yes,Yes,Exceeds Expectations,Master's
+EMP01293,35,Non-Binary,Sales,Sales Manager,26484,16,High,Yes,Yes,Meets Expectations,Bachelor's
+EMP00322,34,Male,Finance,Accountant,8495,7,Very High,,No,Needs Improvement,Bachelor's
+EMP00855,21,Non-Binary,Customer Support,Team Lead,16841,2,Very High,Yes,Yes,Needs Improvement,Master's
+EMP01232,41,Non-Binary,Human Resources,HR Manager,19210,24,Medium,No,No,Needs Improvement,Bachelor's
+EMP00283,44,Male,Finance,Finance Manager,23621,7,Low,No,Yes,Needs Improvement,Master's
+EMP00015,29,Male,IT,Unknown,18930,0,Low,No,No,Meets Expectations,Bachelor's
+EMP00861,30,Male,Finance,Financial Analyst,40000,9,Low,No,Yes,Exceeds Expectations,High School
+EMP00368,33,Non-Binary,Sales,Sales Manager,15362,12,Very High,No,Yes,Needs Improvement,PhD
+EMP01362,44,Female,Sales,Sales Manager,16027,1,Very High,,Yes,Needs Improvement,High School
+EMP00707,36,Female,IT,Software Engineer,28513,7,High,No,No,Needs Improvement,Master's
+EMP01453,18,Female,Research & Development,Research Director,23021,0,High,No,Yes,Meets Expectations,High School
+EMP01257,37,Non-Binary,Finance,Accountant,22777,19,Medium,No,No,Needs Improvement,Bachelor's
+EMP01374,33,Non-Binary,Operations,Operations Analyst,40000,11,Low,No,Yes,Needs Improvement,Master's
+EMP01239,35,Male,Customer Support,Team Lead,22941,10,Low,Yes,No,Exceeds Expectations,Bachelor's
+EMP01178,24,Non-Binary,Finance,Accountant,33521,3,High,Yes,Yes,Meets Expectations,Master's
+EMP00673,39,Male,Customer Support,Team Lead,28696,17,Very High,No,No,Exceeds Expectations,Master's
+EMP01206,33,Female,Human Resources,Recruiter,9653,14,Very High,No,No,Meets Expectations,Master's
+EMP00315,34,Male,Research & Development,Lab Technician,40000,11,Unknown,No,No,Meets Expectations,High School
+EMP01366,42,Male,Operations,Operations Analyst,17470,0,Very High,No,No,Exceeds Expectations,High School
+EMP00993,42,Non-Binary,Research & Development,Research Director,18398,24,Very High,No,No,Needs Improvement,PhD
+EMP01172,29,Male,Human Resources,Recruiter,16889,12,Medium,No,No,Meets Expectations,PhD
+EMP00009,40,Female,Customer Support,Support Manager,40000,17,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00182,36,Female,Research & Development,Lab Technician,20014,6,High,No,No,Needs Improvement,PhD
+EMP00361,44,Female,Human Resources,HR Executive,22169,16,Medium,No,No,Needs Improvement,PhD
+EMP00864,28,Female,Sales,Sales Executive,8943,8,Low,No,Yes,Exceeds Expectations,High School
+EMP00223,28,Non-Binary,Finance,Accountant,24471,6,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00554,33,Non-Binary,Finance,Financial Analyst,26537,1,Low,Yes,No,Exceeds Expectations,PhD
+EMP00441,22,Male,Research & Development,Research Scientist,35631,7,Low,No,Yes,Unknown,PhD
+EMP01271,44,Male,Finance,Financial Analyst,19921,5,Medium,Yes,No,Meets Expectations,Master's
+EMP00512,36,Non-Binary,Research & Development,Research Scientist,31314,7,Medium,No,No,Exceeds Expectations,High School
+EMP00381,25,Female,Research & Development,Research Director,19992,2,Medium,No,Yes,Exceeds Expectations,Master's
+EMP00689,39,Non-Binary,Finance,Financial Analyst,17555,1,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00231,42,Female,Research & Development,Research Director,14213,11,Low,No,No,Needs Improvement,PhD
+EMP00113,35,Male,Customer Support,Support Manager,33159,3,Low,No,Yes,Exceeds Expectations,High School
+EMP01110,37,Non-Binary,Operations,Coordinator,36556,13,Very High,No,Yes,Exceeds Expectations,PhD
+EMP01300,41,Male,IT,Unknown,40000,21,Medium,No,No,Needs Improvement,Bachelor's
+EMP01109,29,Male,Human Resources,HR Manager,32838,4,High,No,Yes,Meets Expectations,Master's
+EMP00936,30,Female,Research & Development,Lab Technician,40000,10,Very High,No,No,Needs Improvement,Master's
+EMP01487,18,Non-Binary,IT,Software Engineer,40000,1,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00437,29,Female,Human Resources,HR Executive,18035,3,Low,No,Yes,Meets Expectations,Master's
+EMP00778,39,Male,Operations,Operations Analyst,40000,15,Very High,Yes,No,Exceeds Expectations,Master's
+EMP00154,40,Male,IT,Data Analyst,27934,23,Low,Yes,Yes,Exceeds Expectations,Master's
+EMP00488,36,Female,Finance,Finance Manager,19085,3,Low,No,Yes,Meets Expectations,High School
+EMP00123,20,Female,Research & Development,Research Director,33734,3,Medium,No,No,Meets Expectations,Master's
+EMP01086,34,Female,Customer Support,Support Manager,25647,11,High,No,No,Needs Improvement,Bachelor's
+EMP01213,41,Non-Binary,Customer Support,Support Manager,17144,7,Low,Yes,Yes,Needs Improvement,Master's
+EMP00613,37,Female,Research & Development,Research Scientist,10511,7,Medium,Yes,No,Needs Improvement,High School
+EMP00681,51,Male,IT,IT Support,13432,27,High,No,No,Exceeds Expectations,High School
+EMP00096,28,Female,Research & Development,Lab Technician,28981,2,Very High,,No,Exceeds Expectations,PhD
+EMP00819,39,Female,Customer Support,Team Lead,40000,8,High,No,No,Exceeds Expectations,Master's
+EMP00893,36,Female,IT,IT Support,40000,16,High,Yes,Yes,Exceeds Expectations,PhD
+EMP01485,42,Male,Sales,Sales Executive,26430,9,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP01180,44,Female,Finance,Unknown,16595,2,Medium,No,Yes,Needs Improvement,Master's
+EMP01087,19,Male,IT,Software Engineer,34354,1,High,No,Yes,Meets Expectations,Bachelor's
+EMP00837,38,Female,Research & Development,Research Director,29476,8,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00679,35,Non-Binary,Sales,Sales Representative,38879,6,Very High,No,No,Exceeds Expectations,High School
+EMP00940,29,Female,Customer Support,Support Agent,9170,9,High,No,No,Exceeds Expectations,Bachelor's
+EMP00145,35,Female,Sales,Sales Executive,40000,14,Medium,No,No,Meets Expectations,Bachelor's
+EMP00385,32,Female,Customer Support,Support Agent,11724,9,Very High,No,No,Exceeds Expectations,High School
+EMP00813,26,Male,Operations,Operations Analyst,25425,7,Very High,No,Yes,Meets Expectations,PhD
+EMP00671,30,Non-Binary,Human Resources,HR Manager,25557,13,Very High,No,No,Exceeds Expectations,High School
+EMP00347,44,Male,Research & Development,Research Director,40000,12,Low,No,No,Meets Expectations,Master's
+EMP00332,23,Non-Binary,Customer Support,Support Manager,17789,2,High,No,No,Needs Improvement,Bachelor's
+EMP00988,28,Female,IT,Software Engineer,40000,4,Unknown,No,Yes,Exceeds Expectations,Bachelor's
+EMP00667,35,Unknown,Research & Development,Research Director,21119,2,Very High,No,No,Meets Expectations,Master's
+EMP00637,41,Male,Sales,Sales Representative,19201,22,High,No,Yes,Exceeds Expectations,High School
+EMP01005,25,Male,Sales,Sales Representative,15165,5,High,No,No,Meets Expectations,PhD
+EMP00248,47,Unknown,Finance,Financial Analyst,40000,24,Very High,No,No,Meets Expectations,PhD
+EMP01296,23,Female,Customer Support,Support Agent,40000,2,High,Yes,Yes,Needs Improvement,Master's
+EMP01393,45,Female,Human Resources,HR Manager,32082,8,High,No,No,Meets Expectations,High School
+EMP01215,47,Male,Operations,Operations Analyst,36276,12,Medium,No,No,Meets Expectations,PhD
+EMP00423,22,Male,Sales,Sales Executive,20014,3,Low,No,Yes,Meets Expectations,Bachelor's
+EMP00944,50,Female,Operations,Coordinator,18535,24,Medium,No,No,Exceeds Expectations,Master's
+EMP01297,30,Non-Binary,Research & Development,Research Scientist,31149,0,High,No,No,Needs Improvement,Master's
+EMP01434,59,Female,Customer Support,Team Lead,38560,30,Low,No,No,Meets Expectations,Bachelor's
+EMP00196,35,Non-Binary,Operations,Operations Manager,29114,12,Medium,No,No,Exceeds Expectations,High School
+EMP00981,23,Male,Research & Development,Lab Technician,40000,6,High,Yes,Yes,Meets Expectations,Bachelor's
+EMP00246,24,Male,Research & Development,Research Director,34666,1,High,No,No,Exceeds Expectations,Bachelor's
+EMP00401,33,Male,IT,Software Engineer,23625,8,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP00179,39,Male,Research & Development,Lab Technician,24284,15,Medium,Yes,Yes,Exceeds Expectations,Master's
+EMP00774,33,Male,Sales,Sales Representative,16715,45,Unknown,Yes,Yes,Exceeds Expectations,High School
+EMP00372,32,Non-Binary,IT,IT Support,40000,8,Low,No,Yes,Meets Expectations,Bachelor's
+EMP00211,47,Female,Finance,Accountant,27356,25,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00743,41,Female,Customer Support,Support Manager,23997,13,Medium,No,Yes,Needs Improvement,High School
+EMP00143,27,Male,Customer Support,Support Manager,40000,4,High,No,No,Exceeds Expectations,PhD
+EMP00336,32,Non-Binary,IT,Data Analyst,18698,15,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP01103,37,Male,Sales,Sales Executive,24249,19,Very High,No,No,Exceeds Expectations,Master's
+EMP00835,38,Female,Finance,Accountant,10751,18,High,No,No,Meets Expectations,Bachelor's
+EMP01009,18,Non-Binary,Finance,Accountant,999999,1,Low,No,No,Needs Improvement,High School
+EMP01054,31,Non-Binary,Sales,Sales Manager,40000,3,Medium,No,Yes,Exceeds Expectations,High School
+EMP00062,26,Female,Human Resources,Recruiter,40000,7,High,No,Yes,Needs Improvement,High School
+EMP01033,18,Male,IT,IT Support,40000,1,Low,No,No,Exceeds Expectations,Master's
+EMP00206,32,Non-Binary,Operations,Operations Analyst,22666,11,High,Yes,No,Needs Improvement,High School
+EMP00568,18,Non-Binary,Finance,Financial Analyst,27321,0,High,No,Yes,Meets Expectations,High School
+EMP01210,28,Female,Research & Development,Research Director,10826,2,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00205,40,Non-Binary,IT,Software Engineer,28116,17,Low,Yes,Yes,Needs Improvement,High School
+EMP01184,34,Female,IT,Software Engineer,9656,3,Medium,No,No,Needs Improvement,High School
+EMP00978,34,Male,Sales,Sales Executive,30212,15,Very High,No,No,Meets Expectations,PhD
+EMP01303,42,Male,Human Resources,Recruiter,10301,17,Medium,No,No,Exceeds Expectations,Master's
+EMP01463,35,Male,Research & Development,Research Director,38304,8,High,No,Yes,Needs Improvement,PhD
+EMP01484,32,Female,Research & Development,Lab Technician,16383,9,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00098,31,Non-Binary,Sales,Sales Executive,40000,8,Medium,Yes,Yes,Meets Expectations,Bachelor's
+EMP01398,24,Male,Unknown,Operations Analyst,20203,6,Very High,Yes,No,Needs Improvement,High School
+EMP00465,35,Male,Sales,Sales Manager,24468,0,Low,Yes,No,Exceeds Expectations,High School
+EMP00241,38,Non-Binary,Finance,Finance Manager,21082,8,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP00421,35,Non-Binary,Sales,Sales Representative,21161,3,Low,,Yes,Needs Improvement,PhD
+EMP00025,46,Male,Research & Development,Research Director,40000,25,Medium,No,Yes,Exceeds Expectations,High School
+EMP00493,30,Female,Sales,Sales Manager,28320,2,Very High,No,Yes,Needs Improvement,High School
+EMP00642,28,Male,Research & Development,Research Scientist,40000,4,Low,Yes,No,Meets Expectations,High School
+EMP01244,46,Female,Sales,Sales Executive,39081,14,High,No,No,Meets Expectations,PhD
+EMP01283,41,Female,Finance,Finance Manager,37430,20,Very High,No,No,Meets Expectations,Bachelor's
+EMP01042,42,Male,IT,Software Engineer,13550,12,High,No,Yes,Needs Improvement,High School
+EMP00829,40,Male,Sales,Sales Manager,26484,16,High,No,No,Exceeds Expectations,PhD
+EMP00410,31,Male,IT,IT Support,34708,10,High,No,No,Exceeds Expectations,High School
+EMP01468,38,Non-Binary,Operations,Operations Analyst,28959,8,Low,No,No,Needs Improvement,PhD
+EMP01127,35,Female,Sales,Sales Manager,21014,17,High,No,No,Meets Expectations,Master's
+EMP01101,44,Male,IT,Data Analyst,18140,23,Low,No,Yes,Exceeds Expectations,PhD
+EMP01011,42,Male,Customer Support,Support Manager,29687,7,High,No,Yes,Exceeds Expectations,Master's
+EMP01222,25,Non-Binary,Human Resources,HR Manager,18390,6,Low,No,No,Meets Expectations,Master's
+EMP01471,30,Female,Research & Development,Research Director,40000,13,High,No,Yes,Needs Improvement,Master's
+EMP00653,31,Female,Human Resources,Recruiter,31598,6,Very High,No,No,Exceeds Expectations,Master's
+EMP00632,43,Male,Sales,Sales Executive,20024,4,Low,No,Yes,Exceeds Expectations,Master's
+EMP01486,27,Female,IT,Software Engineer,13892,10,High,No,No,Exceeds Expectations,Bachelor's
+EMP00938,18,Male,Human Resources,HR Executive,22415,1,Very High,No,Yes,Meets Expectations,High School
+EMP00958,32,Female,Research & Development,Lab Technician,40000,4,Medium,Yes,Yes,Needs Improvement,High School
+EMP00346,42,Non-Binary,Sales,Sales Manager,40000,18,High,No,No,Needs Improvement,Master's
+EMP01157,29,Male,Research & Development,Lab Technician,9540,1,Medium,No,Yes,Exceeds Expectations,Master's
+EMP00155,35,Female,Human Resources,Recruiter,40000,5,Very High,No,Yes,Meets Expectations,High School
+EMP00721,42,Female,Sales,Sales Representative,25612,5,Very High,Yes,No,Exceeds Expectations,High School
+EMP01117,34,Male,Research & Development,Research Director,13211,7,Very High,No,Yes,Meets Expectations,PhD
+EMP00127,53,Non-Binary,Operations,Operations Manager,36833,1,Very High,No,No,Needs Improvement,High School
+EMP00422,45,Non-Binary,Sales,Sales Manager,17489,17,Low,Yes,Yes,Meets Expectations,High School
+EMP00842,47,Male,Human Resources,Unknown,25429,22,Low,No,Yes,Exceeds Expectations,Master's
+EMP00267,46,Non-Binary,Finance,Accountant,40000,19,Very High,No,Yes,Meets Expectations,High School
+EMP01021,47,Non-Binary,Sales,Sales Representative,32665,12,Medium,No,Yes,Unknown,High School
+EMP00738,50,Female,Operations,Unknown,40000,2,Medium,No,Yes,Meets Expectations,PhD
+EMP00037,28,Male,Research & Development,Research Scientist,40000,1,High,Yes,No,Meets Expectations,High School
+EMP00713,52,Non-Binary,Research & Development,Research Scientist,19841,6,Medium,No,Yes,Meets Expectations,Master's
+EMP00156,23,Male,Finance,Financial Analyst,40000,5,High,No,No,Needs Improvement,Bachelor's
+EMP00932,35,Non-Binary,Research & Development,Research Scientist,15179,2,Medium,No,No,Meets Expectations,Master's
+EMP00901,44,Male,Operations,Operations Analyst,26484,2,Low,No,No,Needs Improvement,Bachelor's
+EMP00079,31,Non-Binary,Finance,Financial Analyst,26484,8,Medium,Yes,No,Exceeds Expectations,Bachelor's
+EMP00375,18,Non-Binary,IT,IT Support,22875,0,Medium,No,No,Needs Improvement,High School
+EMP00403,37,Male,Operations,Coordinator,40000,8,Medium,,Yes,Meets Expectations,Bachelor's
+EMP00197,23,Non-Binary,Customer Support,Team Lead,15642,6,Medium,No,No,Needs Improvement,Bachelor's
+EMP00389,48,Female,Sales,Sales Executive,18765,28,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00918,43,Non-Binary,Customer Support,Team Lead,35600,25,High,No,Yes,Needs Improvement,High School
+EMP00780,36,Non-Binary,Customer Support,Support Manager,40000,6,Very High,No,No,Needs Improvement,Bachelor's
+EMP00178,42,Non-Binary,Research & Development,Research Scientist,35116,15,High,No,No,Meets Expectations,Bachelor's
+EMP01189,41,Male,IT,IT Support,25150,2,Very High,No,No,Needs Improvement,Bachelor's
+EMP00544,41,Male,Customer Support,Team Lead,40000,7,Medium,No,No,Meets Expectations,High School
+EMP01187,26,Female,Operations,Coordinator,12828,4,Medium,Yes,No,Meets Expectations,Unknown
+EMP00413,42,Non-Binary,Finance,Accountant,14253,11,Low,No,No,Needs Improvement,High School
+EMP00625,40,Female,Operations,Operations Analyst,20987,4,High,No,Yes,Meets Expectations,PhD
+EMP01098,34,Non-Binary,Finance,Finance Manager,15100,5,High,No,No,Meets Expectations,Bachelor's
+EMP00960,39,Female,Sales,Sales Manager,40000,6,Low,Yes,No,Exceeds Expectations,Bachelor's
+EMP00099,19,Female,Sales,Sales Manager,27751,7,Medium,No,No,Needs Improvement,Bachelor's
+EMP00141,35,Non-Binary,Operations,Coordinator,26733,5,Low,No,No,Exceeds Expectations,Master's
+EMP01113,25,Non-Binary,Finance,Accountant,40000,5,Medium,No,No,Meets Expectations,PhD
+EMP01053,31,Non-Binary,Customer Support,Support Agent,26780,7,Very High,No,No,Exceeds Expectations,Master's
+EMP00876,28,Male,Research & Development,Research Director,40000,2,Medium,No,Yes,Meets Expectations,Master's
+EMP00054,22,Non-Binary,Customer Support,Support Agent,40000,1,Low,Yes,No,Exceeds Expectations,Master's
+EMP01464,29,Male,Research & Development,Lab Technician,13405,7,Medium,No,No,Exceeds Expectations,Master's
+EMP01092,23,Male,Research & Development,Lab Technician,33849,5,High,Yes,No,Exceeds Expectations,High School
+EMP00966,36,Non-Binary,Customer Support,Support Agent,40000,17,Low,No,No,Exceeds Expectations,High School
+EMP00894,53,Unknown,Customer Support,Support Agent,17463,18,Low,No,No,Meets Expectations,Bachelor's
+EMP00628,39,Male,Operations,Operations Analyst,29212,5,Low,No,No,Exceeds Expectations,Bachelor's
+EMP00996,38,Male,Finance,Finance Manager,34334,21,Very High,Yes,Yes,Needs Improvement,PhD
+EMP01231,45,Male,Sales,Sales Executive,37470,8,Very High,No,No,Needs Improvement,Bachelor's
+EMP00088,28,Male,Finance,Finance Manager,25557,3,Medium,No,No,Meets Expectations,PhD
+EMP00039,56,Non-Binary,Human Resources,Recruiter,9692,20,Very High,No,Yes,Meets Expectations,Master's
+EMP01497,42,Female,IT,IT Support,25895,10,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00323,41,Female,Human Resources,Recruiter,13005,8,Medium,No,Yes,Meets Expectations,Master's
+EMP00635,44,Male,IT,IT Support,29840,6,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00281,27,Non-Binary,Operations,Operations Manager,32643,10,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00999,23,Male,Sales,Sales Manager,18677,2,Very High,No,No,Exceeds Expectations,PhD
+EMP00087,43,Female,Finance,Financial Analyst,12020,9,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP01286,28,Non-Binary,Finance,Accountant,40000,2,Low,No,No,Exceeds Expectations,Master's
+EMP00134,36,Male,Human Resources,Recruiter,34739,5,Very High,No,No,Meets Expectations,PhD
+EMP00962,25,Female,Finance,Finance Manager,33389,6,High,No,Yes,Needs Improvement,High School
+EMP00767,35,Female,Sales,Sales Representative,40000,11,Medium,No,No,Meets Expectations,Master's
+EMP01192,35,Non-Binary,Human Resources,HR Manager,40000,5,Low,Yes,No,Meets Expectations,Bachelor's
+EMP01035,28,Non-Binary,Customer Support,Support Manager,16097,9,Very High,Yes,No,Exceeds Expectations,High School
+EMP01324,23,Female,Sales,Sales Representative,34527,4,Medium,No,No,Needs Improvement,PhD
+EMP00490,40,Non-Binary,Finance,Finance Manager,26484,17,Very High,No,No,Needs Improvement,Bachelor's
+EMP00923,18,Female,Customer Support,Support Manager,23930,1,High,No,No,Exceeds Expectations,Bachelor's
+EMP01243,24,Non-Binary,Sales,Sales Executive,16228,0,Medium,Yes,Yes,Exceeds Expectations,Master's
+EMP00717,35,Non-Binary,Unknown,Operations Analyst,35504,9,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP00387,26,Male,Sales,Sales Executive,6316,9,Low,Yes,No,Exceeds Expectations,PhD
+EMP01142,31,Non-Binary,Sales,Sales Executive,28249,10,Medium,No,Yes,Exceeds Expectations,PhD
+EMP00652,48,Non-Binary,Finance,Accountant,24173,25,Very High,Yes,Yes,Meets Expectations,PhD
+EMP00105,26,Male,Finance,Finance Manager,20599,1,Low,No,No,Exceeds Expectations,PhD
+EMP00073,41,Non-Binary,Human Resources,HR Manager,18811,8,Low,No,Yes,Meets Expectations,Master's
+EMP00458,35,Female,Operations,Coordinator,37472,18,Very High,No,Yes,Meets Expectations,PhD
+EMP00688,33,Female,Human Resources,Recruiter,40000,13,High,No,No,Meets Expectations,Bachelor's
+EMP01079,36,Female,Research & Development,Lab Technician,13057,15,Medium,No,Yes,Needs Improvement,High School
+EMP00704,35,Male,Operations,Coordinator,40000,4,Low,No,No,Needs Improvement,Bachelor's
+EMP01060,46,Non-Binary,Operations,Operations Analyst,19215,14,Medium,Yes,No,Meets Expectations,Bachelor's
+EMP01216,33,Male,Sales,Sales Representative,30383,9,Medium,No,No,Meets Expectations,PhD
+EMP01406,21,Non-Binary,Customer Support,Support Agent,38967,4,Medium,No,Yes,Needs Improvement,High School
+EMP00279,48,Female,Sales,Sales Manager,17264,4,Low,No,No,Exceeds Expectations,Master's
+EMP00081,40,Male,Human Resources,Recruiter,40000,9,High,No,No,Meets Expectations,Master's
+EMP00358,37,Non-Binary,IT,Data Analyst,28920,8,Very High,Yes,No,Meets Expectations,PhD
+EMP01133,35,Female,Customer Support,Support Agent,18634,7,Very High,No,No,Needs Improvement,High School
+EMP00363,46,Male,IT,IT Support,10313,20,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00783,19,Non-Binary,Human Resources,HR Executive,29108,7,Low,Yes,Yes,Needs Improvement,PhD
+EMP00528,40,Female,Customer Support,Support Agent,40000,23,Low,No,Yes,Meets Expectations,High School
+EMP00190,35,Non-Binary,IT,IT Support,18849,8,Medium,No,No,Needs Improvement,Master's
+EMP00313,36,Male,Sales,Sales Representative,8613,18,Very High,No,No,Needs Improvement,Master's
+EMP01304,32,Female,Finance,Accountant,26484,1,Low,Yes,No,Needs Improvement,Master's
+EMP00446,35,Male,Human Resources,HR Executive,11127,8,High,No,Yes,Meets Expectations,PhD
+EMP00137,31,Female,Research & Development,Lab Technician,40000,6,Low,Yes,No,Exceeds Expectations,PhD
+EMP00290,28,Male,Human Resources,HR Executive,23933,0,Very High,No,No,Needs Improvement,PhD
+EMP00424,42,Non-Binary,Research & Development,Lab Technician,29539,7,High,No,No,Exceeds Expectations,High School
+EMP00463,33,Female,Human Resources,HR Manager,39247,4,High,No,Yes,Exceeds Expectations,High School
+EMP00550,35,Non-Binary,Human Resources,HR Manager,18656,7,Very High,No,Yes,Needs Improvement,Master's
+EMP00698,36,Female,Finance,Accountant,14504,10,High,No,Yes,Needs Improvement,PhD
+EMP01155,33,Non-Binary,IT,Software Engineer,10956,11,Very High,No,Yes,Exceeds Expectations,PhD
+EMP01229,37,Unknown,Research & Development,Research Scientist,40000,3,Very High,No,No,Meets Expectations,High School
+EMP00803,24,Female,Research & Development,Research Scientist,30478,4,Medium,No,No,Needs Improvement,PhD
+EMP00649,38,Non-Binary,Operations,Operations Analyst,20215,9,High,No,Yes,Exceeds Expectations,PhD
+EMP00886,44,Male,Operations,Operations Manager,27086,10,Low,Yes,Yes,Meets Expectations,Master's
+EMP01066,33,Female,Research & Development,Lab Technician,17596,12,Very High,Yes,No,Needs Improvement,High School
+EMP00004,27,Male,Research & Development,Lab Technician,11520,4,Very High,No,No,Meets Expectations,High School
+EMP01059,41,Male,Human Resources,HR Executive,40000,3,Very High,No,Yes,Meets Expectations,Master's
+EMP00236,49,Female,Sales,Sales Representative,22897,27,Low,Yes,No,Needs Improvement,PhD
+EMP01134,21,Non-Binary,IT,Data Analyst,40000,2,Very High,No,No,Exceeds Expectations,Master's
+EMP00348,37,Male,Operations,Operations Analyst,40000,14,Medium,No,Yes,Exceeds Expectations,Master's
+EMP01272,38,Non-Binary,Customer Support,Support Agent,23764,7,Medium,Yes,Yes,Needs Improvement,PhD
+EMP00696,43,Female,Sales,Sales Manager,15235,25,Low,No,No,Needs Improvement,Master's
+EMP00588,32,Female,Operations,Operations Manager,21415,11,Very High,No,No,Exceeds Expectations,Master's
+EMP00920,39,Male,Sales,Sales Executive,20486,6,High,No,Yes,Meets Expectations,PhD
+EMP00272,37,Male,Human Resources,HR Executive,24374,20,Medium,No,No,Meets Expectations,High School
+EMP00640,34,Non-Binary,Research & Development,Research Scientist,29086,5,Medium,No,No,Meets Expectations,PhD
+EMP01235,35,Male,IT,IT Support,16716,30,High,No,Yes,Exceeds Expectations,PhD
+EMP01483,41,Male,Finance,Finance Manager,20497,4,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00658,42,Female,IT,Data Analyst,30505,20,Very High,No,Yes,Meets Expectations,High School
+EMP01224,25,Female,Sales,Sales Representative,40000,2,High,No,Yes,Meets Expectations,Bachelor's
+EMP01008,32,Non-Binary,Customer Support,Support Manager,19809,6,Medium,Yes,Yes,Exceeds Expectations,PhD
+EMP00540,47,Male,Research & Development,Research Director,14864,13,High,No,Yes,Meets Expectations,High School
+EMP00364,27,Non-Binary,Human Resources,HR Manager,38827,3,High,No,No,Meets Expectations,High School
+EMP00033,31,Male,Customer Support,Support Manager,24253,4,Medium,No,Yes,Needs Improvement,Master's
+EMP00008,40,Non-Binary,Customer Support,Team Lead,13726,21,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP01225,40,Male,Research & Development,Research Scientist,35435,3,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00907,32,Male,Finance,Finance Manager,12373,12,Low,Yes,No,Meets Expectations,Master's
+EMP00723,42,Female,Finance,Financial Analyst,35826,11,High,No,Yes,Exceeds Expectations,High School
+EMP00504,26,Male,Customer Support,Support Manager,40000,2,High,No,No,Needs Improvement,High School
+EMP01277,39,Male,Human Resources,Recruiter,23805,10,High,No,No,Exceeds Expectations,PhD
+EMP01302,19,Female,Finance,Accountant,39510,2,High,No,No,Exceeds Expectations,PhD
+EMP01436,31,Non-Binary,Operations,Operations Analyst,35644,6,Unknown,No,Yes,Meets Expectations,Bachelor's
+EMP01182,25,Male,Human Resources,Recruiter,40000,8,Very High,Yes,Yes,Meets Expectations,High School
+EMP00683,34,Female,Finance,Finance Manager,19075,3,High,No,No,Needs Improvement,Master's
+EMP00191,40,Male,Sales,Sales Executive,18835,18,Medium,No,No,Needs Improvement,PhD
+EMP00836,50,Male,IT,Software Engineer,40000,17,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00648,46,Female,Finance,Accountant,6169,13,Very High,No,No,Needs Improvement,High School
+EMP01165,31,Non-Binary,Human Resources,HR Manager,15360,13,Medium,Yes,No,Needs Improvement,Bachelor's
+EMP01500,44,Female,IT,Software Engineer,38627,9,Very High,No,Yes,Needs Improvement,PhD
+EMP00065,28,Non-Binary,Customer Support,Team Lead,40000,7,High,No,No,Needs Improvement,High School
+EMP01424,42,Non-Binary,Research & Development,Lab Technician,30397,0,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00449,40,Male,Sales,Sales Executive,40000,1,Low,Yes,Yes,Exceeds Expectations,Master's
+EMP00782,39,Male,Human Resources,HR Manager,32937,1,Very High,,No,Exceeds Expectations,Master's
+EMP01342,30,Female,Finance,Financial Analyst,25922,1,Medium,Yes,Yes,Exceeds Expectations,Master's
+EMP00383,35,Non-Binary,Human Resources,HR Executive,23994,8,Medium,No,Yes,Needs Improvement,PhD
+EMP00159,51,Male,Customer Support,Team Lead,26050,13,High,Yes,Yes,Needs Improvement,Bachelor's
+EMP00217,28,Non-Binary,Operations,Coordinator,14319,1,Low,Yes,Yes,Needs Improvement,High School
+EMP00560,38,Non-Binary,Research & Development,Research Director,32934,8,High,No,No,Meets Expectations,PhD
+EMP00400,18,Non-Binary,Research & Development,Research Director,19352,0,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00994,35,Male,Finance,Financial Analyst,34854,17,Medium,No,Yes,Meets Expectations,PhD
+EMP00012,40,Male,Finance,Financial Analyst,40000,15,Very High,No,No,Needs Improvement,High School
+EMP00013,21,Non-Binary,Research & Development,Lab Technician,26484,3,Very High,No,Yes,Meets Expectations,PhD
+EMP01070,27,Male,Operations,Operations Analyst,40000,5,Very High,No,No,Exceeds Expectations,PhD
+EMP00471,37,Female,Research & Development,Lab Technician,40000,7,Low,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP01317,42,Male,Human Resources,Recruiter,14531,0,Very High,Yes,Yes,Meets Expectations,Bachelor's
+EMP01370,41,Female,Human Resources,HR Executive,16101,14,Medium,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00356,53,Male,Operations,Operations Analyst,40000,4,Very High,No,No,Meets Expectations,PhD
+EMP01065,30,Non-Binary,Operations,Operations Manager,21109,11,High,No,No,Meets Expectations,High School
+EMP00787,45,Male,IT,Software Engineer,35061,10,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00729,42,Male,Operations,Operations Analyst,28936,6,Low,No,Yes,Meets Expectations,High School
+EMP00525,40,Male,IT,Data Analyst,40000,6,High,No,No,Unknown,Master's
+EMP00869,51,Female,Sales,Sales Executive,32522,9,High,No,No,Meets Expectations,Bachelor's
+EMP00702,23,Male,Operations,Coordinator,29969,0,High,No,No,Needs Improvement,Bachelor's
+EMP00433,46,Non-Binary,Operations,Operations Analyst,29886,3,Low,Yes,Yes,Needs Improvement,Bachelor's
+EMP00288,31,Female,Customer Support,Support Manager,24352,3,High,No,No,Needs Improvement,PhD
+EMP00235,38,Male,Operations,Operations Analyst,14301,2,Low,No,No,Needs Improvement,PhD
+EMP00107,35,Female,Research & Development,Research Scientist,13740,11,High,No,Yes,Exceeds Expectations,High School
+EMP00352,33,Non-Binary,Human Resources,HR Manager,40000,11,Very High,No,Yes,Meets Expectations,PhD
+EMP00730,20,Non-Binary,IT,Software Engineer,40000,3,High,No,No,Needs Improvement,PhD
+EMP00618,40,Male,Finance,Finance Manager,21819,5,Very High,No,No,Meets Expectations,High School
+EMP00826,43,Male,Finance,Finance Manager,29555,0,Very High,Yes,Yes,Exceeds Expectations,PhD
+EMP01000,46,Non-Binary,Operations,Operations Manager,19525,26,Low,No,Yes,Meets Expectations,Master's
+EMP00036,18,Non-Binary,Operations,Coordinator,13489,0,Low,Yes,Yes,Meets Expectations,Master's
+EMP00772,32,Female,Finance,Finance Manager,30543,8,High,No,Yes,Exceeds Expectations,Master's
+EMP00761,35,Non-Binary,Human Resources,Recruiter,21466,11,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00857,35,Female,Research & Development,Research Scientist,27753,15,High,No,Yes,Meets Expectations,Master's
+EMP01280,44,Female,Human Resources,HR Executive,21114,0,Low,Yes,No,Exceeds Expectations,Master's
+EMP00734,20,Female,Customer Support,Support Agent,14318,3,Very High,No,Unknown,Exceeds Expectations,Bachelor's
+EMP00741,40,Non-Binary,Research & Development,Lab Technician,16546,22,High,No,Yes,Needs Improvement,PhD
+EMP00157,33,Male,Finance,Accountant,29424,2,Very High,No,No,Exceeds Expectations,PhD
+EMP01175,42,Female,Finance,Financial Analyst,33362,1,Low,Yes,Yes,Needs Improvement,Bachelor's
+EMP01156,33,Female,Operations,Coordinator,18015,2,Low,Yes,Yes,Exceeds Expectations,PhD
+EMP01420,42,Male,Customer Support,Support Agent,17255,5,Very High,No,Yes,Exceeds Expectations,High School
+EMP00600,37,Non-Binary,Research & Development,Lab Technician,23974,11,Low,No,No,Needs Improvement,High School
+EMP00845,41,Female,IT,Software Engineer,20235,11,High,No,Yes,Meets Expectations,Bachelor's
+EMP01400,33,Unknown,Research & Development,Research Scientist,40000,11,Very High,No,Yes,Needs Improvement,High School
+EMP00377,30,Male,Operations,Coordinator,31488,6,Medium,Yes,No,Exceeds Expectations,High School
+EMP00321,24,Male,Operations,Coordinator,40000,7,High,No,No,Needs Improvement,Master's
+EMP00895,23,Male,Research & Development,Research Director,40000,5,Unknown,No,Yes,Exceeds Expectations,Master's
+EMP00214,46,Male,Research & Development,Research Scientist,20702,22,Very High,No,Yes,Needs Improvement,PhD
+EMP00011,18,Non-Binary,Operations,Operations Manager,40000,1,Very High,No,No,Exceeds Expectations,Master's
+EMP00786,35,Male,Sales,Sales Manager,22983,15,Low,Yes,Yes,Meets Expectations,High School
+EMP00277,35,Male,IT,Software Engineer,24176,5,Low,Yes,Yes,Meets Expectations,High School
+EMP01100,32,Male,Human Resources,Recruiter,15353,13,Very High,No,Yes,Exceeds Expectations,High School
+EMP01421,35,Female,Finance,Accountant,11162,11,Medium,No,Yes,Exceeds Expectations,High School
+EMP00685,31,Male,Customer Support,Support Agent,18813,14,High,No,No,Exceeds Expectations,Bachelor's
+EMP00108,29,Non-Binary,Operations,Operations Analyst,23063,8,High,No,No,Needs Improvement,Master's
+EMP01238,36,Male,Operations,Operations Analyst,40000,12,Very High,No,No,Needs Improvement,Bachelor's
+EMP01488,24,Male,Finance,Financial Analyst,24561,5,Medium,Yes,No,Meets Expectations,PhD
+EMP01439,30,Non-Binary,Research & Development,Research Director,12892,13,High,No,No,Needs Improvement,Bachelor's
+EMP00249,35,Non-Binary,Sales,Sales Representative,36218,1,High,Yes,Yes,Meets Expectations,High School
+EMP01119,33,Male,IT,Data Analyst,37923,6,Low, Yes ,No,Needs Improvement,PhD
+EMP01301,26,Non-Binary,Human Resources,Recruiter,29173,7,Low,No,No,Needs Improvement,Bachelor's
+EMP00641,34,Female,Operations,Operations Manager,27020,15,Very High,No,Yes,Needs Improvement,PhD
+EMP01381,26,Male,Sales,Sales Representative,20983,9,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP00476,23,Non-Binary,Operations,Coordinator,29033,2,High,No,Yes,Needs Improvement,PhD
+EMP00064,42,Male,Operations,Coordinator,11687,3,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP01265,32,Female,IT,Data Analyst,27401,5,High,No,No,Needs Improvement,Master's
+EMP00839,45,Female,Customer Support,Team Lead,10980,1,Very High,No,Yes,Needs Improvement,PhD
+EMP01361,40,Non-Binary,Human Resources,Recruiter,22398,0,Medium,No,No,Meets Expectations,Bachelor's
+EMP00537,24,Female,Operations,Coordinator,40000,2,Very High,No,No,Meets Expectations,Master's
+EMP01247,21,Female,Human Resources,HR Executive,20116,3,Low,No,No,Meets Expectations,Bachelor's
+EMP00706,36,Female,Operations,Operations Manager,26484,5,Medium,Yes,Yes,Meets Expectations,High School
+EMP00619,29,Male,Human Resources,HR Manager,19862,8,Low,Yes,No,Meets Expectations,PhD
+EMP01396,42,Non-Binary,Sales,Sales Executive,25806,6,High,No,No,Exceeds Expectations,PhD
+EMP00603,28,Male,Operations,Operations Manager,19940,9,Very High,No,Yes,Needs Improvement,Master's
+EMP00665,24,Female,Finance,Financial Analyst,29276,5,Low,No,No,Needs Improvement,Master's
+EMP00811,26,Female,Customer Support,Support Manager,40000,3,High,No,Yes,Needs Improvement,Master's
+EMP00404,28,Male,Sales,Sales Representative,40000,10,Medium,No,Yes,Needs Improvement,High School
+EMP00239,40,Female,Research & Development,Research Scientist,25171,11,Low,No,Unknown,Needs Improvement,Master's
+EMP01088,21,Male,Research & Development,Research Director,33890,0,Medium,Yes,No,Meets Expectations,High School
+EMP01106,40,Female,Customer Support,Support Agent,35198,20,Low,No,Yes,Needs Improvement,High School
+EMP00319,36,Male,Finance,Accountant,40000,10,Medium,No,No,Needs Improvement,Bachelor's
+EMP00573,21,Female,IT,Data Analyst,40000,1,Low,Yes,Yes,Meets Expectations,Bachelor's
+EMP00171,26,Female,Operations,Coordinator,23596,1,Low,No,No,Meets Expectations,PhD
+EMP01275,32,Non-Binary,Operations,Operations Manager,40000,5,Very High,No,Yes,Needs Improvement,High School
+EMP00577,43,Male,Research & Development,Research Director,38905,13,Medium,No,No,Needs Improvement,PhD
+EMP00551,42,Male,Customer Support,Support Agent,11227,20,Medium,Yes,No,Exceeds Expectations,PhD
+EMP00957,37,Non-Binary,Research & Development,Research Director,25437,16,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00374,22,Male,Sales,Sales Executive,40000,2,Medium,Yes,No,Needs Improvement,PhD
+EMP00094,25,Male,Sales,Sales Manager,40000,6,Low,No,No,Meets Expectations,High School
+EMP00638,45,Male,Sales,Sales Manager,27175,5,High,Yes,No,Needs Improvement,Master's
+EMP00963,43,Female,Finance,Accountant,25125,10,Low,Yes,No,Needs Improvement,Master's
+EMP00300,41,Female,Finance,Finance Manager,36561,0,High,No,Yes,Needs Improvement,Master's
+EMP00914,25,Female,Human Resources,HR Manager,25143,8,High,No,No,Needs Improvement,PhD
+EMP00889,37,Male,Customer Support,Team Lead,19178,18,High,No,Yes,Needs Improvement,High School
+EMP00494,35,Female,Sales,Sales Representative,33715,17,Medium,No,Yes,Exceeds Expectations,Master's
+EMP00959,35,Male,Human Resources,Recruiter,30795,9,High,No,No,Meets Expectations,Master's
+EMP00828,21,Male,Human Resources,Recruiter,40000,3,Very High,No,Yes,Exceeds Expectations,PhD
+EMP01318,18,Female,Research & Development,Research Scientist,35297,1,High,No,Yes,Needs Improvement,High School
+EMP00005,44,Female,Operations,Operations Manager,27149,4,High,No,No,Meets Expectations,Bachelor's
+EMP00763,26,Male,Customer Support,Support Agent,38658,5,Medium,No,No,Needs Improvement,PhD
+EMP00601,35,Female,Research & Development,Research Scientist,30362,11,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00565,59,Female,Sales,Sales Executive,40000,25,High,No,Yes,Meets Expectations,PhD
+EMP00489,33,Male,Finance,Accountant,15990,4,Medium,No,No,Needs Improvement,Bachelor's
+EMP00545,40,Female,Finance,Accountant,27481,8,Very High,No,Unknown,Meets Expectations,PhD
+EMP01253,19,Female,Research & Development,Research Director,16573,2,Low,No,No,Needs Improvement,Master's
+EMP00623,24,Male,IT,Software Engineer,26957,3,Very High,Yes,No,Needs Improvement,Master's
+EMP00961,33,Non-Binary,Unknown,Operations Manager,36551,5,Very High,No,Yes,Meets Expectations,PhD
+EMP00884,38,Female,Customer Support,Unknown,38421,10,Low,No,No,Exceeds Expectations,PhD
+EMP00220,23,Male,IT,Software Engineer,40000,1,Very High,Yes,No,Exceeds Expectations,PhD
+EMP00765,38,Female,Human Resources,HR Manager,12435,14,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00138,45,Non-Binary,Research & Development,Research Director,40000,24,High,No,No,Meets Expectations,PhD
+EMP00070,35,Male,Human Resources,HR Manager,40000,3,Low,No,No,Meets Expectations,Bachelor's
+EMP01006,46,Female,Human Resources,HR Executive,29012,20,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP01071,32,Non-Binary,IT,IT Support,13069,14,Very High,No,Yes,Needs Improvement,PhD
+EMP01256,26,Female,Human Resources,HR Executive,18629,2,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00498,32,Non-Binary,Finance,Finance Manager,15268,0,Very High,Yes,Yes,Exceeds Expectations,Master's
+EMP00891,19,Female,Research & Development,Research Director,15436,1,Medium,No,No,Unknown,Bachelor's
+EMP00922,37,Non-Binary,Operations,Operations Analyst,23002,13,Very High,No,No,Needs Improvement,Bachelor's
+EMP00566,29,Non-Binary,Finance,Financial Analyst,15927,8,High,No,Yes,Exceeds Expectations,PhD
+EMP00882,30,Female,Sales,Sales Executive,31785,11,Medium,Yes,No,Exceeds Expectations,Master's
+EMP00456,34,Non-Binary,Human Resources,HR Manager,26484,10,High,No,Yes,Meets Expectations,Master's
+EMP00934,42,Non-Binary,Human Resources,HR Executive,40000,20,Very High,Yes,No,Needs Improvement,High School
+EMP01205,37,Non-Binary,Research & Development,Research Scientist,33618,14,Very High,No,No,Meets Expectations,High School
+EMP00517,53,Female,Sales,Sales Executive,15670,1,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP01226,34,Female,IT,Data Analyst,30362,5,Low,No,Yes,Needs Improvement,High School
+EMP01023,39,Female,IT,IT Support,12989,7,Very High,No,Yes,Meets Expectations,High School
+EMP01392,22,Male,Research & Development,Research Director,23726,1,Very High,No,Yes,Meets Expectations,Master's
+EMP00327,35,Male,IT,IT Support,40000,7,Low,Yes,Yes,Needs Improvement,High School
+EMP00066,37,Male,Customer Support,Team Lead,33053,5,Low,Yes,Yes,Needs Improvement,Master's
+EMP00824,27,Non-Binary,Human Resources,HR Executive,40000,1,Low,Yes,Yes,Needs Improvement,PhD
+EMP01379,25,Male,Finance,Financial Analyst,35728,2,Unknown,No,No,Needs Improvement,PhD
+EMP01194,30,Non-Binary,Customer Support,Support Agent,31177,13,Low,No,No,Meets Expectations,High School
+EMP00736,28,Female,Customer Support,Support Manager,25117,8,High,Yes,No,Exceeds Expectations,PhD
+EMP00880,46,Unknown,Customer Support,Support Manager,9714,3,Low,Yes,Yes,Needs Improvement,Master's
+EMP00791,31,Male,IT,IT Support,40000,11,High,No,No,Needs Improvement,Master's
+EMP01034,33,Male,Customer Support,Support Manager,11598,8,Low,Yes,No,Meets Expectations,Master's
+EMP01203,49,Non-Binary,IT,Data Analyst,14528,14,Very High,No,Yes,Needs Improvement,High School
+EMP01477,45,Female,IT,Data Analyst,34905,0,Medium,No,Yes,Exceeds Expectations,Master's
+EMP01188,46,Non-Binary,Finance,Finance Manager,40000,13,Medium,No,No,Needs Improvement,Bachelor's
+EMP00924,37,Female,Sales,Sales Executive,19173,0,Very High,No,No,Exceeds Expectations,PhD
+EMP01489,33,Non-Binary,Sales,Sales Representative,19494,10,Very High,No,No,Exceeds Expectations,Master's
+EMP01242,45,Non-Binary,Finance,Finance Manager,40000,3,Low,No,No,Meets Expectations,Master's
+EMP00177,31,Male,Operations,Operations Manager,40000,7,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00888,25,Non-Binary,Research & Development,Lab Technician,21897,5,Medium,No,Yes,Needs Improvement,PhD
+EMP01390,35,Non-Binary,Customer Support,Support Manager,32107,6,Medium,No,Yes,Exceeds Expectations,Master's
+EMP01409,18,Non-Binary,Operations,Operations Analyst,11750,1,Low,No,Yes,Meets Expectations,High School
+EMP01118,42,Female,IT,Data Analyst,23009,0,Low,Yes,Yes,Needs Improvement,Unknown
+EMP00973,38,Non-Binary,Customer Support,Support Agent,17798,19,High,Yes,No,Meets Expectations,PhD
+EMP00309,38,Non-Binary,Customer Support,Support Agent,17812,7,Medium,No,No,Meets Expectations,Master's
+EMP00547,31,Female,Research & Development,Research Scientist,24360,7,Low,No,No,Exceeds Expectations,Unknown
+EMP01430,38,Female,Operations,Operations Analyst,31556,12,Low,No,No,Exceeds Expectations,Bachelor's
+EMP01360,35,Female,Research & Development,Research Scientist,31593,10,Low,No,Yes,Needs Improvement,PhD
+EMP01135,39,Non-Binary,Customer Support,Support Manager,30470,2,High,No,No,Exceeds Expectations,High School
+EMP01432,36,Male,Sales,Sales Executive,23727,13,Very High,No,No,Needs Improvement,Master's
+EMP01145,47,Non-Binary,Research & Development,Research Director,12835,13,Medium,No,Yes,Meets Expectations,PhD
+EMP01167,48,Male,IT,Software Engineer,40000,13,Low,No,No,Exceeds Expectations,Master's
+EMP00396,21,Non-Binary,Human Resources,HR Executive,34513,3,Medium,No,No,Needs Improvement,PhD
+EMP01320,35,Male,IT,Software Engineer,19770,13,Medium,No,No,Meets Expectations,Master's
+EMP00872,30,Male,Human Resources,HR Executive,19048,10,High,Yes,No,Meets Expectations,High School
+EMP00513,30,Female,IT,IT Support,21828,10,Medium,No,No,Needs Improvement,Bachelor's
+EMP00816,28,Female,Customer Support,Team Lead,34146,9,Medium,No,No,Meets Expectations,Bachelor's
+EMP00457,22,Non-Binary,Human Resources,HR Manager,21367,3,High,No,Yes,Needs Improvement,Bachelor's
+EMP00687,29,Non-Binary,Customer Support,Support Agent,22768,9,Low,Yes,Yes,Meets Expectations,Bachelor's
+EMP01456,53,Male,Operations,Operations Analyst,25580,5,Very High,No,Yes,Needs Improvement,PhD
+EMP01201,40,Non-Binary,Customer Support,Team Lead,19563,22,Medium,No,Yes,Meets Expectations,High School
+EMP00232,43,Unknown,Sales,Sales Executive,8925,2,Low,Yes,No,Exceeds Expectations,PhD
+EMP00302,32,Non-Binary,Finance,Financial Analyst,8088,14,Very High,No,No,Exceeds Expectations,High School
+EMP00735,36,Non-Binary,Finance,Accountant,40000,19,High,No,No,Exceeds Expectations,Unknown
+EMP00753,38,Non-Binary,Sales,Sales Executive,32585,5,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00668,35,Male,Human Resources,Recruiter,21567,7,Low,No,Yes,Meets Expectations,Master's
+EMP00451,35,Non-Binary,Research & Development,Research Director,26484,17,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00602,44,Male,Human Resources,HR Manager,19649,24,Low,No,No,Meets Expectations,Master's
+EMP00186,32,Non-Binary,Operations,Operations Manager,22178,4,High,No,Yes,Meets Expectations,PhD
+EMP00750,30,Non-Binary,Operations,Coordinator,23306,3,Medium,No,No,Needs Improvement,PhD
+EMP00460,34,Female,Customer Support,Team Lead,26500,17,Low,Yes,No,Exceeds Expectations,Bachelor's
+EMP00916,34,Female,Sales,Sales Representative,38127,10,Unknown,No,No,Needs Improvement,High School
+EMP00472,18,Male,Sales,Sales Manager,40000,1,Low,No,Yes,Meets Expectations,Master's
+EMP00069,44,Female,Customer Support,Support Agent,9902,20,Very High,No,Yes,Meets Expectations,Master's
+EMP00398,19,Male,Research & Development,Research Director,36606,0,Very High,Yes,Yes,Needs Improvement,High School
+EMP01129,39,Non-Binary,IT,Software Engineer,21262,0,Very High,No,Yes,Meets Expectations,High School
+EMP00522,36,Female,Unknown,Financial Analyst,29295,5,Low,Yes,No,Needs Improvement,Bachelor's
+EMP01207,27,Female,Research & Development,Lab Technician,32827,4,Medium,No,Yes,Needs Improvement,Bachelor's
+EMP00167,48,Male,Sales,Sales Executive,15080,18,Low,Yes,No,Needs Improvement,High School
+EMP00991,37,Female,Finance,Finance Manager,40000,15,High,No,Yes,Needs Improvement,PhD
+EMP00660,44,Male,Operations,Coordinator,40000,0,Medium,No,Yes,Meets Expectations,PhD
+EMP01404,33,Male,Operations,Operations Analyst,29794,15,Medium,No,No,Meets Expectations,Master's
+EMP00014,27,Male,IT,Software Engineer,40000,0,Very High,No,Unknown,Meets Expectations,Master's
+EMP00224,18,Female,Operations,Operations Manager,27497,0,High,Yes,No,Needs Improvement,PhD
+EMP00633,18,Non-Binary,Customer Support,Support Agent,24193,1,Unknown,Yes,Yes,Unknown,Master's
+EMP01387,25,Male,Customer Support,Team Lead,25943,4,High,No,No,Exceeds Expectations,PhD
+EMP01248,32,Male,Finance,Financial Analyst,40000,0,Low,No,Yes,Meets Expectations,High School
+EMP01263,34,Male,Operations,Coordinator,35780,4,Very High,,No,Meets Expectations,High School
+EMP00549,42,Non-Binary,Customer Support,Support Manager,10864,13,High,No,No,Meets Expectations,High School
+EMP00229,36,Non-Binary,Operations,Coordinator,16358,7,Medium,No,Yes,Meets Expectations,PhD
+EMP00745,28,Non-Binary,Finance,Accountant,39101,1,High,No,No,Meets Expectations,High School
+EMP00268,19,Female,Research & Development,Research Scientist,38219,2,Medium,No,No,Exceeds Expectations,PhD
+EMP00846,33,Non-Binary,Customer Support,Support Manager,16322,5,Low,Yes,No,Exceeds Expectations,High School
+EMP00794,26,Non-Binary,Customer Support,Support Manager,16025,0,Very High,No,Yes,Meets Expectations,High School
+EMP01154,43,Male,IT,Data Analyst,20100,12,Very High,Yes,Yes,Exceeds Expectations,Master's
+EMP00692,36,Male,Customer Support,Support Manager,23102,12,Very High,Yes,Yes,Meets Expectations,Master's
+EMP00068,47,Male,Research & Development,Research Scientist,17138,19,Medium,No,No,Meets Expectations,PhD
+EMP00989,41,Non-Binary,IT,IT Support,40000,5,Very High,No,Yes,Exceeds Expectations,Master's
+EMP00117,35,Female,Research & Development,Research Director,40000,4,Low,No,Yes,Meets Expectations,High School
+EMP00558,30,Male,IT,Software Engineer,5953,5,High,No,No,Needs Improvement,Bachelor's
+EMP01234,38,Non-Binary,Research & Development,Research Scientist,22406,3,Very High,No,Yes,Meets Expectations,Bachelor's
+EMP00298,36,Male,IT,Data Analyst,24151,17,Low,No,No,Exceeds Expectations,PhD
+EMP01266,23,Female,Human Resources,HR Executive,23973,3,Medium,No,Yes,Needs Improvement,PhD
+EMP00048,21,Male,IT,Data Analyst,10248,3,High,No,Yes,Needs Improvement,High School
+EMP00705,27,Female,Operations,Coordinator,21913,3,Medium,No,Yes,Needs Improvement,Master's
+EMP00265,33,Male,IT,Data Analyst,15227,7,Very High,No,Yes,Needs Improvement,High School
+EMP00875,51,Male,Human Resources,Recruiter,40000,17,Low,Yes,No,Exceeds Expectations,PhD
+EMP00455,24,Non-Binary,Human Resources,Recruiter,22548,6,Medium,No,No,Exceeds Expectations,PhD
+EMP00435,27,Male,Human Resources,HR Manager,27926,8,Low,No,No,Meets Expectations,High School
+EMP00606,28,Female,Sales,Sales Executive,40000,6,High,No,Yes,Unknown,Master's
+EMP00636,29,Male,Finance,Accountant,40000,11,Low, No ,No,Meets Expectations,High School
+EMP00680,31,Female,Human Resources,HR Executive,22371,9,Medium,No,No,Exceeds Expectations,Master's
+EMP01073,44,Non-Binary,Operations,Coordinator,17395,21,Very High,No,Yes,Meets Expectations,Master's
+EMP00744,38,Male,Research & Development,Research Director,40000,20,Very High,No,No,Needs Improvement,High School
+EMP00417,29,Female,Human Resources,HR Executive,17751,7,Medium,No,No,Meets Expectations,Master's
+EMP00203,39,Male,Research & Development,Lab Technician,40000,15,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00732,35,Male,Finance,Accountant,20588,6,Medium,Yes,No,Needs Improvement,PhD
+EMP00118,44,Non-Binary,Human Resources,Recruiter,18582,23,Very High,No,Yes,Exceeds Expectations,PhD
+EMP00071,35,Female,Finance,Financial Analyst,38056,0,High,No,Yes,Meets Expectations,Master's
+EMP00320,42,Non-Binary,Human Resources,HR Executive,40000,23,Low,No,Yes,Exceeds Expectations,Master's
+EMP00379,32,Non-Binary,Sales,Sales Executive,20326,7,Very High,No,No,Meets Expectations,Master's
+EMP00021,23,Female,Operations,Operations Manager,35625,1,Medium,No,No,Meets Expectations,Bachelor's
+EMP00470,39,Non-Binary,Human Resources,Recruiter,40000,13,Medium,No,Yes,Meets Expectations,Master's
+EMP00210,49,Male,IT,Data Analyst,18952,26,Medium,Yes,Yes,Needs Improvement,Bachelor's
+EMP01291,32,Female,Sales,Sales Representative,17410,14,Very High,No,Yes,Meets Expectations,PhD
+EMP00576,35,Female,Finance,Accountant,38826,18,Very High,No,Yes,Meets Expectations,High School
+EMP01122,20,Non-Binary,Research & Development,Lab Technician,12485,1,Medium,No,No,Needs Improvement,Bachelor's
+EMP00090,32,Non-Binary,Research & Development,Research Scientist,12736,15,Low,Yes,No,Needs Improvement,Bachelor's
+EMP01196,40,Male,Customer Support,Team Lead,29084,4,Low,No,No,Exceeds Expectations,PhD
+EMP00273,31,Female,Customer Support,Team Lead,38647,0,Low,Yes,No,Meets Expectations,High School
+EMP01353,30,Non-Binary,Operations,Operations Analyst,30281,13,High,No,No,Needs Improvement,Bachelor's
+EMP00621,30,Male,Operations,Coordinator,40000,13,Very High,No,No,Needs Improvement,PhD
+EMP01057,47,Female,IT,Data Analyst,33889,26,High,No,No,Meets Expectations,High School
+EMP00183,48,Male,Human Resources,HR Executive,22777,11,High,No,Yes,Needs Improvement,Master's
+EMP00769,38,Female,IT,IT Support,23629,7,Very High,No,Yes,Exceeds Expectations,PhD
+EMP01123,47,Non-Binary,Human Resources,Recruiter,28509,18,Very High,No,Yes,Needs Improvement,Master's
+EMP00509,18,Unknown,Operations,Coordinator,31539,0,Low,Yes,No,Meets Expectations,Bachelor's
+EMP00023,18,Non-Binary,Customer Support,Team Lead,34100,0,High,No,Yes,Needs Improvement,PhD
+EMP01063,35,Female,IT,IT Support,17413,18,Low,No,No,Needs Improvement,High School
+EMP01120,38,Non-Binary,Customer Support,Support Manager,40000,19,High,No,No,Needs Improvement,PhD
+EMP01462,35,Female,Human Resources,HR Executive,37809,17,High,No,Yes,Exceeds Expectations,High School
+EMP00354,40,Female,Research & Development,Research Scientist,40000,2,High,No,No,Exceeds Expectations,PhD
+EMP00548,37,Non-Binary,Sales,Sales Manager,18778,0,Low,Yes,Yes,Needs Improvement,Master's
+EMP01289,27,Non-Binary,Research & Development,Lab Technician,16014,7,Medium,No,Yes,Exceeds Expectations,Bachelor's
+EMP01364,45,Non-Binary,Unknown,Sales Manager,9119,25,Very High,No,Yes,Needs Improvement,Bachelor's
+EMP00420,35,Male,Research & Development,Lab Technician,29769,0,Medium,No,Yes,Needs Improvement,High School
+EMP00086,44,Male,Finance,Finance Manager,16417,5,Medium,No,No,Exceeds Expectations,Unknown
+EMP00370,35,Non-Binary,Customer Support,Support Manager,25699,6,Very High,No,No,Meets Expectations,PhD
+EMP01294,35,Non-Binary,Research & Development,Research Director,15686,5,Low,No,No,Exceeds Expectations,High School
+EMP00419,39,Female,Sales,Sales Representative,15804,18,High,No,No,Needs Improvement,Master's
+EMP00402,29,Female,Finance,Accountant,26366,3,High,No,Yes,Exceeds Expectations,Master's
+EMP01020,34,Non-Binary,Sales,Sales Executive,40000,16,Very High,No,Yes,Exceeds Expectations,PhD
+EMP00230,24,Non-Binary,Operations,Operations Manager,40000,5,Low,Yes,No,Exceeds Expectations,High School
+EMP01058,38,Female,Operations,Coordinator,16462,9,High,No,No,Exceeds Expectations,PhD
+EMP00790,23,Male,Customer Support,Team Lead,31040,1,Low,No,Yes,Exceeds Expectations,Bachelor's
+EMP00708,26,Male,Human Resources,HR Manager,36954,1,Very High,No,Yes,Exceeds Expectations,PhD
+EMP01240,36,Female,Customer Support,Team Lead,40000,7,Low,Yes,No,Meets Expectations,High School
+EMP00250,27,Male,Operations,Operations Analyst,24378,4,High,No,No,Meets Expectations,PhD
+EMP00365,43,Male,IT,Data Analyst,38867,20,High,No,Yes,Needs Improvement,High School
+EMP01384,45,Non-Binary,Customer Support,Support Manager,17947,26,Very High,No,No,Needs Improvement,High School
+EMP00271,39,Male,IT,Data Analyst,24006,3,Medium,No,No,Needs Improvement,Master's
+EMP00312,31,Non-Binary,Finance,Accountant,7361,7,Medium,No,Yes,Needs Improvement,PhD
+EMP01094,38,Male,Finance,Financial Analyst,30020,15,Very High,No,No,Meets Expectations,Master's
+EMP00515,36,Non-Binary,IT,IT Support,33912,18,Low,No,Yes,Needs Improvement,Bachelor's
+EMP01044,38,Male,Research & Development,Research Director,28466,14,High,No,Yes,Needs Improvement,High School
+EMP00580,33,Female,Sales,Sales Representative,7381,9,High,No,No,Needs Improvement,High School
+EMP00501,46,Male,IT,IT Support,13312,20,High,No,Yes,Needs Improvement,Bachelor's
+EMP00189,44,Male,Operations,Coordinator,23991,22,Low,No,Yes,Exceeds Expectations,High School
+EMP01137,35,Non-Binary,Human Resources,Recruiter,24551,15,Very High,No,No,Needs Improvement,PhD
+EMP01332,59,Male,Finance,Financial Analyst,35784,17,Medium,Yes,Yes,Meets Expectations,Bachelor's
+EMP00479,35,Non-Binary,IT,Software Engineer,24111,10,High,No,No,Exceeds Expectations,Master's
+EMP00253,18,Male,Sales,Sales Representative,21952,1,Very High,No,No,Needs Improvement,Bachelor's
+EMP00335,41,Non-Binary,Customer Support,Support Manager,15653,17,High,No,Yes,Exceeds Expectations,High School
+EMP01442,37,Male,Unknown,IT Support,40000,4,Very High,No,Yes,Meets Expectations,PhD
+EMP01068,44,Female,Sales,Sales Representative,26484,24,High,No,No,Exceeds Expectations,PhD
+EMP00911,20,Female,IT,IT Support,17368,0,Low,Yes,Yes,Meets Expectations,PhD
+EMP00833,28,Male,Finance,Finance Manager,12170,2,Low,Yes,Yes,Exceeds Expectations,PhD
+EMP00067,39,Male,IT,Software Engineer,9958,3,High,No,No,Meets Expectations,Master's
+EMP01186,34,Non-Binary,Operations,Operations Analyst,40000,14,High,No,Yes,Meets Expectations,High School
+EMP00725,38,Female,Human Resources,Recruiter,36546,0,High,No,Yes,Exceeds Expectations,Bachelor's
+EMP00289,50,Male,Unknown,Operations Analyst,24663,0,Medium,No,No,Needs Improvement,Bachelor's
+EMP01416,37,Male,Operations,Coordinator,15818,2,Low,No,Yes,Meets Expectations,PhD
+EMP00764,36,Male,Unknown,Sales Manager,17179,19,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00140,42,Non-Binary,Customer Support,Support Manager,40000,5,Very High,Yes,No,Exceeds Expectations,PhD
+EMP00076,28,Female,Sales,Sales Manager,10181,8,Low,Yes,No,Meets Expectations,High School
+EMP01104,23,Male,Human Resources,HR Manager,12843,1,Low,No,Yes,Needs Improvement,Bachelor's
+EMP00985,35,Female,Finance,Financial Analyst,23883,15,Low,No,No,Meets Expectations,Bachelor's
+EMP00535,45,Non-Binary,Operations,Coordinator,32231,28,Very High,No,Yes,Meets Expectations,Master's
+EMP01083,46,Female,Customer Support,Support Manager,28971,20,Medium,No,No,Exceeds Expectations,Bachelor's
+EMP00614,41,Female,Research & Development,Lab Technician,24686,24,High,No,No,Meets Expectations,PhD
+EMP00366,20,Non-Binary,Research & Development,Research Scientist,15726,3,Low,No,Yes,Meets Expectations,PhD
+EMP01313,33,Male,Sales,Sales Manager,23453,4,Low,No,No,Meets Expectations,High School
+EMP00074,40,Female,Operations,Coordinator,26484,7,High,No,Yes,Meets Expectations,Master's
+EMP00260,49,Non-Binary,Sales,Sales Executive,40000,0,Very High,No,No,Meets Expectations,Bachelor's
+EMP01336,34,Non-Binary,IT,Software Engineer,29925,6,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP01241,41,Non-Binary,Research & Development,Lab Technician,19055,15,Low,No,Yes,Meets Expectations,PhD
+EMP00292,42,Female,Operations,Operations Analyst,32204,21,Medium,No,Yes,Meets Expectations,Bachelor's
+EMP00227,35,Female,Sales,Sales Representative,40000,13,High,No,Yes,Needs Improvement,Bachelor's
+EMP01074,48,Male,Unknown,Software Engineer,21093,12,Very High,No,Yes,Exceeds Expectations,Bachelor's
+EMP01177,27,Male,Sales,Sales Representative,40000,3,Medium,No,No,Meets Expectations,High School
+EMP00482,28,Non-Binary,Customer Support,Support Agent,13001,2,High,No,No,Exceeds Expectations,Master's
+EMP00293,22,Male,Operations,Coordinator,31672,2,Unknown,No,No,Meets Expectations,Bachelor's
+EMP00976,50,Female,Research & Development,Lab Technician,21361,30,High,No,No,Needs Improvement,PhD
+EMP01270,40,Female,Customer Support,Support Manager,999999,12,Very High,No,No,Exceeds Expectations,Bachelor's
+EMP00297,23,Female,Human Resources,Recruiter,29451,1,Very High,Yes,No,Meets Expectations,PhD
+EMP01274,38,Female,Finance,Finance Manager,40000,0,Low,No,Yes,Needs Improvement,PhD
+EMP01376,30,Non-Binary,Sales,Sales Representative,27260,8,Very High,No,Yes,Exceeds Expectations,High School
+EMP00362,37,Male,Finance,Finance Manager,20525,7,High,No,Yes,Exceeds Expectations,High School
+EMP00661,38,Non-Binary,Operations,Operations Manager,40000,12,Medium,No,No,Exceeds Expectations,PhD
+EMP01438,33,Non-Binary,Human Resources,HR Manager,34003,15,Low,Yes,No,Exceeds Expectations,Bachelor's
+EMP00464,37,Male,Research & Development,Research Director,16490,14,Low,Yes,No,Needs Improvement,High School
+EMP01072,41,Female,IT,Data Analyst,30939,14,Very High,No,No,Exceeds Expectations,Master's
+EMP01141,38,Non-Binary,Research & Development,Lab Technician,29239,21,Medium,No,No,Exceeds Expectations,Master's
+EMP00202,22,Female,Customer Support,Team Lead,38446,3,High,No,No,Needs Improvement,Master's
+EMP00018,47,Non-Binary,Finance,Accountant,40000,25,Low,Yes,Yes,Exceeds Expectations,Master's
+EMP01012,34,Male,Finance,Financial Analyst,15533,13,Low,No,No,Needs Improvement,High School
+EMP01349,28,Unknown,Sales,Sales Representative,29497,0,High,No,Yes,Needs Improvement,High School
+EMP01319,22,Female,Unknown,Sales Executive,14821,1,Very High,No,Yes,Needs Improvement,High School
+EMP00817,49,Non-Binary,Human Resources,Recruiter,40000,17,Low,No,No,Exceeds Expectations,Master's
+EMP00418,41,Female,Research & Development,Lab Technician,23082,5,Low,Yes,No,Meets Expectations,Master's
+EMP00917,51,Male,Research & Development,Lab Technician,40000,6,High,No,Yes,Exceeds Expectations,PhD
+EMP00624,27,Female,Operations,Coordinator,40000,8,Very High,No,No,Needs Improvement,PhD
+EMP01160,35,Non-Binary,Operations,Operations Manager,23897,8,Low,No,Yes,Exceeds Expectations,PhD
+EMP00609,48,Female,Human Resources,HR Executive,20125,28,High,No,Yes,Needs Improvement,Bachelor's
+EMP00776,40,Non-Binary,Customer Support,Team Lead,11213,15,Medium,No,Yes,Meets Expectations,PhD
+EMP00762,35,Female,Operations,Operations Analyst,24252,15,Medium,No,No,Needs Improvement,Bachelor's
+EMP00481,39,Non-Binary,Human Resources,Recruiter,22452,10,High,No,No,Meets Expectations,Bachelor's
+EMP01052,39,Non-Binary,Customer Support,Team Lead,18355,20,Very High,No,Yes,Exceeds Expectations,PhD
+EMP00718,22,Female,Human Resources,Recruiter,11591,5,Unknown,No,Yes,Exceeds Expectations,High School
+EMP00439,40,Female,Research & Development,Lab Technician,10963,14,Very High,No,No,Meets Expectations,Bachelor's
+EMP00643,43,Female,Operations,Operations Manager,14393,7,Low,Yes,No,Exceeds Expectations,PhD
+EMP00029,32,Female,Finance,Financial Analyst,30759,7,Very High,No,No,Needs Improvement,Master's
+EMP01024,35,Male,Finance,Financial Analyst,37778,8,Medium,No,No,Needs Improvement,PhD
+EMP01460,36,Male,Finance,Finance Manager,22558,0,Very High,No,Yes,Meets Expectations,PhD
+EMP01437,37,Non-Binary,Customer Support,Support Manager,40000,5,High,No,Yes,Exceeds Expectations,Master's
+EMP00629,37,Female,Finance,Finance Manager,19404,18,Medium,Yes,Yes,Exceeds Expectations,Bachelor's
+EMP00334,55,Male,Customer Support,Team Lead,12988,15,High,No,No,Needs Improvement,Master's
+EMP00078,34,Female,Finance,Accountant,27565,3,Low,No,Yes,Meets Expectations,Bachelor's
+EMP00953,26,Non-Binary,Human Resources,Recruiter,11926,6,Very High,Yes,Yes,Meets Expectations,High School
+EMP00795,39,Male,Human Resources,HR Executive,16877,6,Very High,No,Yes,Meets Expectations,High School
+EMP01415,33,Male,IT,IT Support,15128,6,Very High,No,No,Exceeds Expectations,High School
+EMP00258,30,Female,Research & Development,Research Scientist,12256,0,Very High,Yes,No,Meets Expectations,High School
