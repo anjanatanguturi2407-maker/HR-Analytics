@@ -2,7 +2,7 @@
 
 **An end-to-end data analytics and business intelligence project using Python, Pandas, Matplotlib, and Power BI to explore employee attrition patterns.**
 
----
+
 
 ## 📌 Project Overview
 
@@ -144,22 +144,22 @@ HR-Analytics/
 │       └── hr_analytics_clean.csv
 ├── images/
 │   ├── HR_analytics_dashboard.png
-│   ├── age_distribution.png
-│   ├── age_group_attrition_rate.png
-│   ├── age_vs_attrition.png
-│   ├── attrition_distribution.png
-│   ├── department_attrition_rate.png
 │   ├── employee_correlation_heatmap.png
+│   ├── age_distribution.png
+│   ├── age_vs_attrition.png
+│   ├── department_attrition_rate.png
 │   └── [Other EDA visualization images]
 ├── notebooks/
 │   ├── 01_data_understanding.ipynb
 │   ├── 02_data_cleaning.ipynb
 │   └── 03_exploratory_data_analysis.ipynb
 ├── power_bi/
-│   └── hr_analytics.png.pbix
+│   ├── HR_Analytics_Final.pbix
+│   └── HR_analytics_dashboard.png
 ├── src/
 │   ├── data_understanding.py
 │   ├── data_cleaning.py
 │   └── exploratory_data_analysis.py
 ├── .gitignore
 └── README.md
+
