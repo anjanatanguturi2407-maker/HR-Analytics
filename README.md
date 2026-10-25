@@ -31,6 +31,8 @@ This project addresses that need by cleaning and exploring HR data with Python a
 
 ![HR Analytics Dashboard](images/hr_analytics_dashboard.png)
 
+*The interactive Power BI dashboard presents key workforce metrics, employee attrition rates, and comparisons across departments, job roles, gender, and overtime status through charts and interactive filters.*
+
 ### Dashboard Features
 
 | Feature | Description |
@@ -155,3 +157,98 @@ HR-Analytics/
 │   └── exploratory_data_analysis.py
 ├── .gitignore
 └── README.md
+```
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/anjanatanguturi2407-maker/HR-Analytics.git
+cd HR-Analytics
+```
+
+### 2. Create a Virtual Environment
+
+```bash
+python -m venv .venv
+```
+
+Activate it on Windows:
+
+```powershell
+.venv\Scripts\activate
+```
+
+### 3. Install the Required Libraries
+
+```bash
+pip install pandas matplotlib jupyter
+```
+
+Install any additional libraries required by your notebooks or scripts.
+
+### 4. Run the Notebooks
+
+Open Jupyter Notebook or JupyterLab and run the notebooks in this order:
+
+1. `notebooks/01_data_understanding.ipynb`
+2. `notebooks/02_data_cleaning.ipynb`
+3. `notebooks/03_exploratory_data_analysis.ipynb`
+
+### 5. Open the Power BI Dashboard
+
+Open the `.pbix` report from the `power_bi/` folder in Power BI Desktop. If prompted, select `data/processed/hr_analytics_clean.csv` as the data source and verify that the report refreshes successfully.
+
+## ⚠️ Data Quality & Limitations
+
+| Finding | Details |
+|---|---|
+| Raw dataset | 1,530 rows |
+| Duplicate records removed | 30 |
+| Processed dataset | 1,500 rows |
+| Missing Attrition labels | 22 identified during cleaning |
+| Suspicious income values | Six `MonthlyIncome` values of `999999` flagged for validation |
+| Employee category totals | Employees Left and Employees Stayed total 1,471 |
+
+The average monthly income measure excludes suspicious high-income values identified during data inspection. These values have not been definitively validated and should be checked against the original source before drawing conclusions about income.
+
+Additional limitations:
+
+- Missing or unclassified values can affect metric interpretation.
+- The reason for the 29-record difference between total employees and classified attrition categories requires further validation.
+- The dataset may not represent every organization or workforce.
+- Observed relationships do not prove that a particular attribute causes attrition.
+- Dashboard metrics can change when slicers are applied.
+- Confirm that the dataset is permitted to be shared publicly before uploading employee data to GitHub.
+
+## 💼 Business Value
+
+The dashboard allows users to explore attrition patterns across departments, job roles, gender categories, and overtime status.
+
+These comparisons can help HR teams identify areas for further investigation, support evidence-informed workforce discussions, and improve visibility into workforce metrics.
+
+The report is an exploratory decision-support tool. It does not establish the causes of employee attrition or prove that any particular employee attribute causes turnover.
+
+## 🧠 Skills Demonstrated
+
+- Data inspection and data-quality assessment
+- Data cleaning using Python and Pandas
+- Exploratory data analysis
+- Data visualization with Matplotlib
+- KPI design and DAX measures
+- Power BI dashboard development
+- Interactive reporting and data interpretation
+- Analytical communication
+- Project organization and technical documentation
+- Git and GitHub version control
+
+## 👩‍💻 Author
+
+**Anjana Tanguturi**
+
+Aspiring Data Analyst | Python | SQL | Power BI | Data Analytics
+
+---
+
+*Portfolio project focused on practical data analytics, business intelligence, data-quality assessment, and data-driven decision support.*
